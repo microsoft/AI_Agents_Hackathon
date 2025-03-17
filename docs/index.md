@@ -15,7 +15,7 @@ hide:
 
 💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **amazing prizes!** 💸
 
-!!! tip "**Key dates**"
+!!! tip "**Key Dates**"
 
     * Expert sessions: **April 8th 2025 – April 30th 2025**
     * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
@@ -111,18 +111,18 @@ The series starts with a kick-off for all developers, and then dives into specif
 
 ### Spanish / Español
 
-See all our Spanish sessions on [the Spanish landing page](es/index.md).
-Consulta todas nuestras sesiones en español en [la página de inicio en español](es/index.md).
+See all our Spanish sessions on [the Spanish landing page](es/).
+Consulta todas nuestras sesiones en español en [la página de inicio en español](es/).
 
 ### Portuguese / Português
 
-See our Portuguese sessions on [the Portuguese landing page](pt/index.md).
-Veja nossas sessões em português na [página de entrada em português](pt/index.md).
+See our Portuguese sessions on [the Portuguese landing page](pt/).
+Veja nossas sessões em português na [página de entrada em português](pt/).
 
 ### Chinese / 简体字
 
-See our Chinese sessions on [the Chinese landing page](zh/index.md).
-请查看我们的中文课程在[中文登录页面](zh/index.md)。
+See our Chinese sessions on [the Chinese landing page](zh/).
+请查看我们的中文课程在[中文登录页面](zh/).
 
 ## Office Hours 🕒
 
