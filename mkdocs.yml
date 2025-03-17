@@ -33,13 +33,13 @@ theme:
   # Theme Modes ...............................................
   palette:
     - scheme: default
-      primary: deep purple
+      primary: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
     - scheme: slate
-      primary: deep purple
+      primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -111,3 +111,6 @@ markdown_extensions:
       alternate_style: true
   - toc:
       toc_depth: 2
+
+extra_css:
+  - stylesheets/extra.css

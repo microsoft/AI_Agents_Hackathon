@@ -15,10 +15,10 @@ hide:
 
 💡 Obtén experiencia práctica, desata tu creatividad y construye potentes agentes de IA. Luego, envía tu proyecto para tener la oportunidad de ganar **premios increíbles.** 💸
 
-📅 Fechas clave:
+!!! tip "Fechas clave:"
 
-* Sesiones con expertos: **8 de abril de 2025 – 30 de abril de 2025**
-* Fecha límite para envíar proyectos: **30 de abril de 2025, 11:59 PM PST**
+    * Sesiones con expertos: **8 de abril de 2025 – 30 de abril de 2025**
+    * Fecha límite para envíar proyectos: **30 de abril de 2025, 11:59 PM PST**
 
 ¡No te lo pierdas! Únete y comienza a construir el futuro de la IA. 🔥
 
@@ -27,6 +27,29 @@ hide:
 [¡Regístrate ahora!](https://developer.microsoft.com/reactor/events/25323/) El formulario te inscribirá en el hackathon. Luego, explora el calendario de transmisiones en vivo a continuación y regístrate en las sesiones que te interesen.
 
 Una vez registrado, [preséntate](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) y [busca compañeros para tu equipo](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4).
+
+## Envío de Proyectos 🚀
+
+Revisa las [reglas oficiales](rules.md) y asegúrate de entender los requisitos.
+
+Una vez que tu proyecto esté listo, sigue el [proceso de envío](submission.md). 📝
+
+## Premios y Categorías 🏅
+
+Los proyectos serán evaluados por un panel de jueces, que incluye ingenieros de Microsoft, gerentes de producto y developer advocates. Los criterios de evaluación incluirán innovación, impacto, usabilidad técnica y alineación con la categoría correspondiente del hackathon.
+
+Cada equipo ganador en las categorías a continuación recibirá un premio. 💸
+
+* Mejor Agente en General - $20,000
+* Mejor Agente en Python - $5,000
+* Mejor Agente en C# - $5,000
+* Mejor Agente en Java - $5,000
+* Mejor Agente en JavaScript/TypeScript - $5,000
+* Mejor Agente Copilot (usando Microsoft Copilot Studio o Microsoft 365 Agents SDK) - $5,000
+* Mejor Uso del Servicio de Agentes de Azure AI - $5,000
+
+Cada equipo solo puede ganar en una categoría.  
+Todos los participantes que envíen un proyecto recibirán una insignia digital.
 
 ## Calendario de transmisiones 📅
 
@@ -69,26 +92,3 @@ Al momento, este es el horario:
 Únete a [TheSource EHub](https://aka.ms/thesource/ai_agents) para explorar nuestras mejores selecciones de capacitaciones, transmisiones en vivo, repositorios, guías técnicas, blogs, descargas, certificaciones y más, todo actualizado mensualmente. La sección de Agentes de IA ofrece recursos esenciales para crear Agentes de IA, mientras que otras secciones brindan información sobre IA, herramientas de desarrollo y lenguajes de programación.
 
 También puedes publicar preguntas en nuestro [foro de discusión](https://github.com/microsoft/AI_Agents_Hackathon/discussions), o chatear con otros participantes en el [Discord](https://discord.gg/X7C7UxCFSY).
-
-## Envío de Proyectos 🚀
-
-Revisa las [reglas oficiales](rules.md) y asegúrate de entender los requisitos.
-
-Una vez que tu proyecto esté listo, sigue el [proceso de envío](submission.md). 📝
-
-## Premios y Categorías 🏅
-
-Los proyectos serán evaluados por un panel de jueces, que incluye ingenieros de Microsoft, gerentes de producto y developer advocates. Los criterios de evaluación incluirán innovación, impacto, usabilidad técnica y alineación con la categoría correspondiente del hackathon.
-
-Cada equipo ganador en las categorías a continuación recibirá un premio. 💸
-
-* Mejor Agente en General - $20,000
-* Mejor Agente en Python - $5,000
-* Mejor Agente en C# - $5,000
-* Mejor Agente en Java - $5,000
-* Mejor Agente en JavaScript/TypeScript - $5,000
-* Mejor Agente Copilot (usando Microsoft Copilot Studio o Microsoft 365 Agents SDK) - $5,000
-* Mejor Uso del Servicio de Agentes de Azure AI - $5,000
-
-Cada equipo solo puede ganar en una categoría.  
-Todos los participantes que envíen un proyecto recibirán una insignia digital.
