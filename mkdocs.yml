@@ -110,7 +110,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - toc:
-      toc_depth: 2
+      toc_depth: 3
 
 extra_css:
   - stylesheets/extra.css

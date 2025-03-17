@@ -109,17 +109,17 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/29, 01:00 PM UTC / 06:00 AM PT    | [Irresponsible AI Agents](https://developer.microsoft.com/reactor/events/25388) | Java | - |
 | 4/29, 04:00 PM UTC / 09:00 AM PT    | [Securing AI agents on Azure](https://developer.microsoft.com/reactor/events/25364) | Python | - |
 
-#### Spanish / Español
+### Spanish / Español
 
 See all our Spanish sessions on [the Spanish landing page](es/index.md).
 Consulta todas nuestras sesiones en español en [la página de inicio en español](es/index.md).
 
-#### Portuguese / Português
+### Portuguese / Português
 
 See our Portuguese sessions on [the Portuguese landing page](pt/index.md).
 Veja nossas sessões em português na [página de entrada em português](pt/index.md).
 
-#### Chinese / 简体字
+### Chinese / 简体字
 
 See our Chinese sessions on [the Chinese landing page](zh/index.md).
 请查看我们的中文课程在[中文登录页面](zh/index.md)。
