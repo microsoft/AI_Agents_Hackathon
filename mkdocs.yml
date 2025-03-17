@@ -13,7 +13,17 @@ copyright: >
 
 # Configuration ...............................................
 theme:
-  name: material
+  name: material 
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
   font:
     code: Roboto Mono  #Monospaced
     text: Roboto       #Regular
@@ -91,3 +101,11 @@ nav:
   - Rules: rules.md
   - Submission: submission.md
   - Discussions: https://github.com/microsoft/AI_Agents_Hackathon/discussions
+
+# Extensions  ...............................................
+markdown_extensions:
+  - admonition      
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
