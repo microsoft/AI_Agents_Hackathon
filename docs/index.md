@@ -7,18 +7,18 @@ hide:
 
 ---
 
-# 🛠️ **Build, innovate, and #Hacktogether!** 🛠️
-
-!!! tip "**KEY DATES TO KNOW**"
-
-    * Expert sessions: **April 8th 2025 – April 30th 2025**
-    * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
+# 🛠️ **Build, Innovate, and #Hacktogether!** 🛠️
 
 2025 is the year of AI agents! But what exactly is an agent, and how can you build one? Whether you're a seasoned developer or just starting out, this **FREE three-week virtual hackathon** is your chance to dive deep into AI agent development.
 
 🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel**, **Autogen**, the new **Azure AI Agents SDK** and the **Microsoft 365 Agents SDK**.
 
 💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **amazing prizes!** 💸
+
+!!! tip "**KEY DATES TO KNOW**"
+
+    * Expert sessions: **April 8th 2025 – April 30th 2025**
+    * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
     
 Don't miss out — join us and start building the future of AI! 🔥
 
@@ -28,13 +28,11 @@ Don't miss out — join us and start building the future of AI! 🔥
 
 Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) and [look for teammates](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4)!
 
-
-
 ## **Stream Schedule** 📅
 
 The series starts with a kick-off for all developers, and then dives into specific tracks for [Python](https://developer.microsoft.com/reactor/series/S-1503), [Java](https://developer.microsoft.com/reactor/series/S-1504), [C#](https://developer.microsoft.com/reactor/series/S-1506), and JavaScript developers. The [Copilots track](https://developer.microsoft.com/reactor/series/S-1505) will focus on building intelligent copilots with Microsoft 365 and Copilot Studio.
 
-!!! info "**ENGLISH**"
+!!! info "**English**"
 
     === "**Week 1: April 8th-11th**"
 
@@ -133,7 +131,7 @@ The series starts with a kick-off for all developers, and then dives into specif
         | 4/10 12:00 PM PT | [Crie um aplicativo com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25367) | Python | - |
 
 
-!!! info "**CHINESE / 简体字**"
+!!! info "**Chinese / 简体字**"
 
     === "Week 1: April 8th-11th"
 
@@ -182,8 +180,6 @@ Join [TheSource EHub](https://aka.ms/thesource/ai_agents) to explore top picks i
 You can also post questions in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions), or chat with attendees in the [Discord channel](https://discord.gg/X7C7UxCFSY).
 
 ## Project Submission  🚀
-
-Read through the [official rules](rules.md) and make sure you understand the requirements.
 
 Once your hack is ready, follow the [submission process](submission.md). 📝
 
