@@ -7,26 +7,26 @@ hide:
 
 <img alt="Hackathon de Agentes de IA 2025" src="../media/banner_es.png">
 
-🛠️ ¡Crea, innova y #HackeaJuntos! 🛠️
+🛠️ ¡Crea, innova y #HackeamosJuntos! 🛠️
 
-¡2025 es el año de los agentes de IA! Pero, ¿qué es exactamente un agente y cómo puedes construir uno? Ya seas un desarrollador experimentado o estés comenzando, este **hackathon virtual GRATUITO de tres semanas** es tu oportunidad para profundizar en el desarrollo de agentes de IA.
+¡2025 es el año de los AI agentes! Pero, ¿qué exactamente es un agente y cómo puedes crear uno? No importa si ya tienes experiencia o si recién estás empezando, este **hackathon virtual, TOTALMENTE GRATIS**, es tu chance para sumergirte en el desarrollo de agentes de IA.
 
-🔥 Aprende de **más de 20 sesiones dirigidas por expertos** transmitidas en vivo en YouTube, cubriendo los marcos principales como **Semantic Kernel**, **Autogen**, el nuevo **Azure AI Agents SDK** y el **Microsoft 365 Agents SDK**.
+🔥 Aprende de **más de 20 sesiones dirigidas por expertos** transmitidas en vivo en YouTube, cubriendo los frameworks principales como **Semantic Kernel**, **Autogen**, el nuevo **Azure AI Agents SDK** y el **Microsoft 365 Agents SDK**.
 
 💡 Obtén experiencia práctica, desata tu creatividad y construye potentes agentes de IA. Luego, envía tu proyecto para tener la oportunidad de ganar **premios increíbles.** 💸
 
 📅 Fechas clave:
 
 * Sesiones con expertos: **8 de abril de 2025 – 30 de abril de 2025**
-* Fecha límite para envío de proyectos: **30 de abril de 2025, 11:59 PM PST**
+* Fecha límite para envíar proyectos: **30 de abril de 2025, 11:59 PM PST**
 
 ¡No te lo pierdas! Únete y comienza a construir el futuro de la IA. 🔥
 
 ## Registro 🎟️
 
-[¡Regístrate ahora!](https://developer.microsoft.com/reactor/events/25323/) Ese formulario te inscribirá en el hackathon. Luego, explora el calendario de transmisiones en vivo a continuación y regístrate en las sesiones que te interesen.
+[¡Regístrate ahora!](https://developer.microsoft.com/reactor/events/25323/) El formulario te inscribirá en el hackathon. Luego, explora el calendario de transmisiones en vivo a continuación y regístrate en las sesiones que te interesen.
 
-Una vez registrado, [preséntate](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) y [busca compañeros de equipo](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4).
+Una vez registrado, [preséntate](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) y [busca compañeros para tu equipo](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4).
 
 ## Calendario de transmisiones 📅
 
@@ -49,13 +49,13 @@ Una vez registrado, [preséntate](https://github.com/microsoft/AI_Agents_Hackath
 
 Tendremos más de 30 transmisiones en inglés, además de transmisiones en español y chino. Consulta la [página principal](index.md) para más detalles.
 
-## Horario de Consultas 🕒
+## Horas de Oficina 🕒
 
-Para obtener ayuda adicional con tus proyectos, puedes unirte al Horario de Consultas en nuestro canal de Discord de AI.
+Si necesitas ayuda adicional con tus proyectos, puedes unirte a las Horas de Oficina en nuestro Discord.
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/X7C7UxCFSY)
 
-Aquí tienes el horario programado hasta ahora:
+Al momento, este es el horario:
 
 | Día/Hora              | Tema/Anfitriones                         |
 | --------------------- | ---------------------------------------- |
@@ -66,9 +66,9 @@ Aquí tienes el horario programado hasta ahora:
 
 [Accede a los recursos aquí!](https://aka.ms/AIAgent_Skilling)
 
-Únete a [TheSource EHub](https://aka.ms/thesource/ai_agents) para explorar nuestras mejores selecciones, que incluyen capacitaciones, transmisiones en vivo, repositorios, guías técnicas, blogs, descargas, certificaciones y más, todo actualizado mensualmente. La sección de Agentes de IA ofrece recursos esenciales para crear Agentes de IA, mientras que otras secciones brindan información sobre IA, herramientas de desarrollo y lenguajes de programación.
+Únete a [TheSource EHub](https://aka.ms/thesource/ai_agents) para explorar nuestras mejores selecciones de capacitaciones, transmisiones en vivo, repositorios, guías técnicas, blogs, descargas, certificaciones y más, todo actualizado mensualmente. La sección de Agentes de IA ofrece recursos esenciales para crear Agentes de IA, mientras que otras secciones brindan información sobre IA, herramientas de desarrollo y lenguajes de programación.
 
-También puedes publicar preguntas en nuestro [foro de discusión](https://github.com/microsoft/AI_Agents_Hackathon/discussions), o chatear con otros asistentes en el [canal de Discord](https://discord.gg/X7C7UxCFSY).
+También puedes publicar preguntas en nuestro [foro de discusión](https://github.com/microsoft/AI_Agents_Hackathon/discussions), o chatear con otros participantes en el [Discord](https://discord.gg/X7C7UxCFSY).
 
 ## Envío de Proyectos 🚀
 
@@ -78,11 +78,11 @@ Una vez que tu proyecto esté listo, sigue el [proceso de envío](submission.md)
 
 ## Premios y Categorías 🏅
 
-Los proyectos serán evaluados por un panel de jueces, que incluye ingenieros de Microsoft, gerentes de producto y defensores de desarrolladores. Los criterios de evaluación incluirán innovación, impacto, usabilidad técnica y alineación con la categoría correspondiente del hackathon.
+Los proyectos serán evaluados por un panel de jueces, que incluye ingenieros de Microsoft, gerentes de producto y developer advocates. Los criterios de evaluación incluirán innovación, impacto, usabilidad técnica y alineación con la categoría correspondiente del hackathon.
 
 Cada equipo ganador en las categorías a continuación recibirá un premio. 💸
 
-* Mejor Agente General - $20,000
+* Mejor Agente en General - $20,000
 * Mejor Agente en Python - $5,000
 * Mejor Agente en C# - $5,000
 * Mejor Agente en Java - $5,000
@@ -92,6 +92,3 @@ Cada equipo ganador en las categorías a continuación recibirá un premio. 💸
 
 Cada equipo solo puede ganar en una categoría.  
 Todos los participantes que envíen un proyecto recibirán una insignia digital.
-
-**Descargo de responsabilidad**:  
-Este documento ha sido traducido utilizando servicios de traducción automática basados en inteligencia artificial. Si bien nos esforzamos por lograr precisión, tenga en cuenta que las traducciones automáticas pueden contener errores o imprecisiones. El documento original en su idioma nativo debe considerarse como la fuente autorizada. Para información crítica, se recomienda una traducción profesional realizada por humanos. No nos hacemos responsables de malentendidos o interpretaciones erróneas que puedan surgir del uso de esta traducción.
