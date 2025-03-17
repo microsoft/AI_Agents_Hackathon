@@ -1,0 +1,11 @@
+.md-typeset a {
+    text-decoration: underline;
+}
+
+.admonition-title strong {
+    text-transform: uppercase;
+}
+
+.md-nav__title {
+    text-transform: uppercase;
+}
