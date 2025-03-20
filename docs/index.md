@@ -52,7 +52,7 @@ All participants who submit a project will receive a digital badge.
 
 ## Stream Schedule 📅
 
-The series starts with a kick-off for all developers, and then dives into specific tracks for [Python](https://developer.microsoft.com/reactor/series/S-1503), [Java](https://developer.microsoft.com/reactor/series/S-1504), [C#](https://developer.microsoft.com/reactor/series/S-1506), and JavaScript developers. The [Copilots track](https://developer.microsoft.com/reactor/series/S-1505) will focus on building intelligent copilots with Microsoft 365 and Copilot Studio.
+The series starts with a kick-off for all developers, and then dives into specific tracks for [Python](https://developer.microsoft.com/reactor/series/S-1503), [Java](https://developer.microsoft.com/reactor/series/S-1504), [C#](https://developer.microsoft.com/reactor/series/S-1506), and [JavaScript](https://developer.microsoft.com/reactor/series/s-1514/) developers. The [Copilots track](https://developer.microsoft.com/reactor/series/S-1505) will focus on building intelligent copilots with Microsoft 365 and Copilot Studio.
 
 ### English
 
