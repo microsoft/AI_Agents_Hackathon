@@ -8,23 +8,24 @@ hide:
 <img alt="AI Agents Hackathon 2025" src="../media/banner_pt.png">
 
 🛠️ Construa, inove e #Hacktogether! 🛠️
+ 
+2025 é o ano dos agentes de IA! Mas o que exatamente é um agente? E como você pode criar um? Seja você um desenvolvedor experiente ou esteja apenas começando, este hackathon virtual GRATUITO de três semanas é sua chance de mergulhar no desenvolvimento de agentes de IA.
 
-2025 é o ano dos agentes de IA! Mas o que exatamente é um agente, e como você pode criar um? Seja você um desenvolvedor experiente ou esteja apenas começando, este **hackathon virtual GRATUITO de três semanas** é sua chance de mergulhar fundo no desenvolvimento de agentes de IA.
+🔥 Aprenda com mais de 20 sessões lideradas por especialistas, transmitidas ao vivo no YouTube, abordando os principais frameworks, como **Semantic Kernel**, **Autogen**, o novo **Azure AI Agents SDK** e o **Microsoft 365 Agents SDK**.
 
-🔥 Aprenda com **mais de 20 sessões lideradas por especialistas** transmitidas ao vivo no YouTube, abordando os principais frameworks como **Semantic Kernel**, **Autogen**, o novo **Azure AI Agents SDK** e o **Microsoft 365 Agents SDK**.
-
-💡 Tenha experiência prática, libere sua criatividade e construa agentes de IA poderosos—depois envie sua criação para concorrer a **prêmios incríveis!** 💸
+ 
+💡 Coloque a mão na massa, explore sua criatividade e crie agentes de IA poderosos! Depois, envie seu projeto e concorra a **prêmios incríveis!** 💸
 
 !!! tip "**Datas importantes:**"
 
     * Sessões com especialistas: **8 de abril de 2025 – 30 de abril de 2025**
     * Prazo para envio do hack: **30 de abril de 2025, 23:59 PST**
 
-Não perca — junte-se a nós e comece a construir o futuro da IA! 🔥
+Não perca essa oportunidade—junte-se a nós e comece a construir o futuro da IA! 🔥
 
 ## Inscrição 🎟️
 
-[Inscreva-se agora!](https://developer.microsoft.com/reactor/events/25323/) Esse formulário fará sua inscrição no hackathon. Depois, confira a programação das transmissões ao vivo abaixo e inscreva-se nas sessões de seu interesse.
+[Garanta sua vaga agora!](https://developer.microsoft.com/reactor/events/25323/) Preencha o formulário para confirmar sua participação no hackathon. Em seguida, confira a programação das transmissões ao vivo e inscreva-se nas sessões que mais te interessam.
 
 Após se inscrever, [apresente-se](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) e [procure por colegas de equipe](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4)!
 
@@ -66,9 +67,9 @@ Todos os participantes que submeterem um projeto receberão um badge digital.
 
 Teremos mais de 30 transmissões em inglês, além de transmissões em espanhol e chinês. Veja a [página principal](index.md) para mais detalhes.
 
-## Horário de Atendimento 🕒
+## 🕒 Horário de Suporte Técnico
 
-Para ajuda adicional com seus projetos, você pode participar do Horário de Atendimento no canal de Discord de IA.
+Precisa de ajuda com seu projeto? Participe do Horário de Suporte Técnico no canal de Discord de IA e receba orientação de especialistas! 🚀
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/X7C7UxCFSY)
 
