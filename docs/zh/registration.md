@@ -5,7 +5,7 @@ hide:
 
 # 黑客松注册
 
-通过以下链接注册黑客松：[在此注册](https://developer.microsoft.com/en-us/reactor/events/25323/)。
+通过以下链接注册黑客松：[在此注册](https://developer.microsoft.com/reactor/events/25323/)。
 
 [自我介绍](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5)并[寻找队友](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4)！
 

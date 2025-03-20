@@ -76,7 +76,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/15 07:00 AM PT    | [Your first AI Agent in JS with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25381) | JS | - |
 | 4/15 09:00 AM PT    | [Building Agentic Applications with AutoGen v0.4](https://developer.microsoft.com/reactor/events/25327) | Python | - |
 | 4/15 12:00 PM PT | [AI Agents + .NET Aspire](https://developer.microsoft.com/reactor/events/25332) | C# | - |
-| 4/15 03:00 PM PT    | Prototyping AI Agents with GitHub Models | Python | - |
+| 4/15 03:00 PM PT    | [Prototyping AI Agents with GitHub Models](https://developer.microsoft.com/reactor/events/25485/) | Python | - |
 | 4/16 04:00 AM PT | [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25455/) | C# | - |
 | 4/16 06:00 AM PT    | [Building declarative agents with Microsoft Copilot Studio & Teams Toolkit](https://developer.microsoft.com/reactor/events/25393) | Copilots | - |
 | 4/16 09:00 AM PT    | [Building agents with an army of models from the Azure AI model catalog](https://developer.microsoft.com/reactor/events/25328) | Python | - |
@@ -97,7 +97,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - | - |
 | 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# | - |
 | 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python | - |
-| 4/23 06:00 AM PT    | Prompting is the New Scripting: Meet GenAIScript | JS | - |
+| 4/14 06:00 AM PT    | Prompting is the New Scripting: Meet GenAIScript | JS | - |
 | 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python | - |
 | 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python | - |
 | 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# | - |
