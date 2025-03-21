@@ -87,6 +87,3 @@ Aqui estão os horários de atendimento já agendados:
 Junte-se ao [TheSource EHub](https://aka.ms/thesource/ai_agents) para explorar os principais recursos, incluindo treinamentos, transmissões ao vivo, repositórios, guias técnicos, blogs, downloads, certificações e muito mais, atualizados mensalmente. A seção de Agentes de IA oferece recursos essenciais para criar agentes de IA, enquanto outras seções fornecem insights sobre IA, ferramentas de desenvolvimento e linguagens de programação.
 
 Você também pode postar perguntas em nosso [fórum de discussões](https://github.com/microsoft/AI_Agents_Hackathon/discussions) ou conversar com outros participantes no [canal do Discord](https://discord.gg/X7C7UxCFSY).
-
-**Aviso Legal**:  
-Este documento foi traduzido utilizando serviços de tradução baseados em IA. Embora nos esforcemos para garantir a precisão, esteja ciente de que traduções automatizadas podem conter erros ou imprecisões. O documento original em seu idioma nativo deve ser considerado a fonte autoritativa. Para informações críticas, recomenda-se uma tradução profissional realizada por humanos. Não nos responsabilizamos por quaisquer mal-entendidos ou interpretações equivocadas decorrentes do uso desta tradução.
