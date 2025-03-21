@@ -97,7 +97,6 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - | - |
 | 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# | - |
 | 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python | - |
-| TBD   | Prompting is the New Scripting: Meet GenAIScript | JS | - |
 | 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python | - |
 | 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python | - |
 | 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# | - |
