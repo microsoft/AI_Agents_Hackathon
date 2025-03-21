@@ -63,8 +63,8 @@ Todos los participantes que envíen un proyecto recibirán una insignia digital.
 | 4/16 09:00 AM PT    | [Crea tu aplicación de código con Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25360) | Python | - |
 | 4/16 12:00 PM PT | [Agentes de IA + .NET Aspire](https://developer.microsoft.com/reactor/events/25333) | C# | - |
 | 4/17 09:00 AM PT    | [Construyendo agentes utilizando un ejército de modelos con el catálogo de Azure AI Foundry](https://developer.microsoft.com/reactor/events/25316) | Python | - |
-| 4/17 12:00 PM PT | [Crea aplicaciones de agentes de IA con Semantic Kernel](https://developer.microsoft.com/reactor/events/25340/) | Python | - |
-| 4/22 12:00 PM PT | [Prototipando agentes de IA con GitHub Models](https://developer.microsoft.com/reactor/events/25483/) | Python | - |
+| 4/17 12:00 PM PT | [Crea aplicaciones de agentes de IA con Semantic Kernel](https://developer.microsoft.com/en-us/reactor/events/25340/) | Python | - |
+| 4/22 12:00 PM PT | [Prototipando agentes de IA con GitHub Models](https://developer.microsoft.com/en-us/reactor/events/25483/) | Python | - |
 | 4/23 12:00 PM PT    | [Comunicación dinámica en agentes grupales](https://developer.microsoft.com/reactor/events/25339) | Python | - |
 | 4/23 03:00 PM PT | [VoiceRAG: habla con tus datos](https://developer.microsoft.com/reactor/events/25485/) | Python | - |
 
