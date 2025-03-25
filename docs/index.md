@@ -28,7 +28,6 @@ Don't miss out — join us and start building the future of AI! 🔥
 
 Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) and [look for teammates](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4)!
 
-
 ## Project Submission  🚀
 
 Once your hack is ready, follow the [submission process](submission.md). 📝
@@ -72,12 +71,14 @@ The series starts with a kick-off for all developers, and then dives into specif
 
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 4/14 08:00 AM PT      | [Building custom engine agents with Azure AI Foundry and Visual Studio Code](https://developer.microsoft.com/reactor/events/25523) | Copilots | - |
 | 4/15 07:00 AM PT    | [Your first AI Agent in JS with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25381) | JS | - |
 | 4/15 09:00 AM PT    | [Building Agentic Applications with AutoGen v0.4](https://developer.microsoft.com/reactor/events/25327) | Python | - |
 | 4/15 12:00 PM PT | [AI Agents + .NET Aspire](https://developer.microsoft.com/reactor/events/25332) | C# | - |
 | 4/15 03:00 PM PT    | [Prototyping AI Agents with GitHub Models](https://developer.microsoft.com/reactor/events/25481/) | Python | - |
 | 4/16 04:00 AM PT | [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25455/) | C# | - |
 | 4/16 06:00 AM PT    | [Building declarative agents with Microsoft Copilot Studio & Teams Toolkit](https://developer.microsoft.com/reactor/events/25393) | Copilots | - |
+| 4/16 07:00 AM PT    | [Prompting is the New Scripting: Meet GenAIScript](https://developer.microsoft.com/reactor/events/25441/) | JS | - |
 | 4/16 09:00 AM PT    | [Building agents with an army of models from the Azure AI model catalog](https://developer.microsoft.com/reactor/events/25328) | Python | - |
 | 4/16 12:00 PM PT | [Multi-Agent API with LangGraph and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25314) | Python | - |
 | 4/16 03:00 PM PT    | [Mastering Agentic RAG](https://developer.microsoft.com/reactor/events/25315) | Python | - |
@@ -85,7 +86,6 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/17 09:00 AM PT    | [Building smarter Python AI agents with code interpreters](https://developer.microsoft.com/reactor/events/25329) | Python | - |
 | 4/17 12:00 PM PT | [Building Java AI Agents using LangChain4j and Dynamic Sessions](https://developer.microsoft.com/reactor/events/25337) | Java | - |
 | 4/17 03:00 PM PT    | [Agentic Voice Mode Unplugged](https://developer.microsoft.com/reactor/events/25317) | Python | - |
-| TBD    | Prompting is the New Scripting: Meet GenAIScript | JS | - |
 
 #### Week 3: April 21st-25th
 
@@ -139,7 +139,6 @@ Here are the Office Hours scheduled so far:
 | Every Thursday, 12:30 PM PT | [Python + AI (English)](http://aka.ms/aipython/oh)
 | Every Monday, 03:00 PM PT | [Python + AI (Spanish)](https://aka.ms/pythonia/oh)
 
-
 <!-- ## Code Samples
 
 | Repository            | Language/Framework     | Costs |
@@ -157,7 +156,6 @@ To find more samples, check out the following resources:
 Join [TheSource EHub](https://aka.ms/thesource/ai_agents) to explore top picks including trainings, livestreams, repositories, technical guides, blogs, downloads, certifications, and more, all updated monthly. The AI Agent section offers essential resources for creating AI Agents, while other sections provide insights into AI, development tools, and programming languages.
 
 You can also post questions in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions), or chat with attendees in the [Discord channel](https://discord.gg/X7C7UxCFSY).
-
 
 <!--## Judging
 
