@@ -22,6 +22,8 @@ hide:
 
 Don't miss out — join us and start building the future of AI! 🔥
 
+Want to supercharge your AI skills even more? [Join us on April 8th](https://aka.ms/aiskillsfest) in an attempt at a GUINNESS WORLD RECORDS™ title for "most users to take an online multi-level AI lesson" in 24 hours.
+
 ## Registration 🎟️
 
 [Register now!](https://developer.microsoft.com/reactor/events/25323/) That form will register you for the hackathon. Afterwards, browse through the live stream schedule below and register for the sessions you're interested in.
