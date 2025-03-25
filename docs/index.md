@@ -20,9 +20,8 @@ hide:
     * Expert sessions: **April 8th 2025 – April 30th 2025**
     * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
 
-Don't miss out — join us and start building the future of AI! 🔥
 
-Want to supercharge your AI skills even more? [Join us on April 8th](https://aka.ms/aiskillsfest) in an attempt at a GUINNESS WORLD RECORDS™ title for "most users to take an online multi-level AI lesson" in 24 hours.
+For even more AI learning opportunities, [join us on April 8th](https://aka.ms/aiskillsfest) in an attempt at a GUINNESS WORLD RECORDS™ title for "most users to take an online multi-level AI lesson" in 24 hours.
 
 ## Registration 🎟️
 
