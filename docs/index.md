@@ -111,6 +111,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | 4/29, 01:00 PM UTC / 06:00 AM PT    | [Irresponsible AI Agents](https://developer.microsoft.com/reactor/events/25388) | Java | - |
 | 4/29, 04:00 PM UTC / 09:00 AM PT    | [Securing AI agents on Azure](https://developer.microsoft.com/reactor/events/25364) | Python | - |
+| 4/29, 10:00 PM UTC / 03:00 PM PT    | [Evaluating Agents](https://developer.microsoft.com/reactor/events/25369/) | Python | - |
 
 ### Spanish / Español
 
