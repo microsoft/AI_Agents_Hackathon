@@ -69,7 +69,7 @@ hide:
 
 如果您需要更多帮助，可以在我们的AI Discord频道参加办公时间。
 
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/X7C7UxCFSY)
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/ZkEG5GYfGU)
 
 以下是目前安排的办公时间：
 
@@ -84,7 +84,7 @@ hide:
 
 加入 [TheSource EHub](https://aka.ms/thesource/ai_agents)，探索精选资源，包括培训、直播、代码库、技术指南、博客、下载、认证等，每月更新。AI代理部分提供创建AI代理的关键资源，其他部分则涵盖AI、开发工具和编程语言的见解。
 
-您也可以在我们的[讨论论坛](https://github.com/microsoft/AI_Agents_Hackathon/discussions)中提问，或在[Discord频道](https://discord.gg/X7C7UxCFSY)与其他参与者交流。
+您也可以在我们的[讨论论坛](https://github.com/microsoft/AI_Agents_Hackathon/discussions)中提问，或在[Discord频道](https://discord.gg/ZkEG5GYfGU)与其他参与者交流。
 
 
 **免责声明**：  
