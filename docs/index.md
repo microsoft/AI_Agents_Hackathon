@@ -132,7 +132,7 @@ See our Chinese sessions on [the Chinese landing page](zh/).
 
 For additional help with your hacks, you can drop by Office Hours in our AI Discord channel.
 
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/X7C7UxCFSY)
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/ZkEG5GYfGU)
 
 Here are the Office Hours scheduled so far:
 
@@ -157,7 +157,7 @@ To find more samples, check out the following resources:
 
 Join [TheSource EHub](https://aka.ms/thesource/ai_agents) to explore top picks including trainings, livestreams, repositories, technical guides, blogs, downloads, certifications, and more, all updated monthly. The AI Agent section offers essential resources for creating AI Agents, while other sections provide insights into AI, development tools, and programming languages.
 
-You can also post questions in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions), or chat with attendees in the [Discord channel](https://discord.gg/X7C7UxCFSY).
+You can also post questions in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions), or chat with attendees in the [Discord channel](https://discord.gg/ZkEG5GYfGU).
 
 <!--## Judging
 

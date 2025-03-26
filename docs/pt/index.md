@@ -71,7 +71,7 @@ Teremos mais de 30 transmissões em inglês, além de transmissões em espanhol 
 
 Precisa de ajuda com seu projeto? Participe do Horário de Suporte Técnico no canal de Discord de IA e receba orientação de especialistas! 🚀
 
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/X7C7UxCFSY)
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/ZkEG5GYfGU)
 
 Aqui estão os horários de atendimento já agendados:
 
@@ -86,4 +86,4 @@ Aqui estão os horários de atendimento já agendados:
 
 Junte-se ao [TheSource EHub](https://aka.ms/thesource/ai_agents) para explorar os principais recursos, incluindo treinamentos, transmissões ao vivo, repositórios, guias técnicos, blogs, downloads, certificações e muito mais, atualizados mensalmente. A seção de Agentes de IA oferece recursos essenciais para criar agentes de IA, enquanto outras seções fornecem insights sobre IA, ferramentas de desenvolvimento e linguagens de programação.
 
-Você também pode postar perguntas em nosso [fórum de discussões](https://github.com/microsoft/AI_Agents_Hackathon/discussions) ou conversar com outros participantes no [canal do Discord](https://discord.gg/X7C7UxCFSY).
+Você também pode postar perguntas em nosso [fórum de discussões](https://github.com/microsoft/AI_Agents_Hackathon/discussions) ou conversar com outros participantes no [canal do Discord](https://discord.gg/ZkEG5GYfGU).
