@@ -41,7 +41,7 @@ body:
     id: url_repo
     attributes:
       label: Project Repository URL
-      description: URL of the GitHub repo with your project
+      description: URL of the GitHub repo with your project, which should include a clear README
     validations:
       required: true
   - type: input
@@ -55,7 +55,7 @@ body:
     id: video
     attributes:
       label: Project Video
-      description: A short demo video of your project
+      description: A short demo video of your project (must be LESS than 5 minutes)
     validations:
       required: true
   - type: input
