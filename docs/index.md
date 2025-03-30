@@ -123,10 +123,10 @@ Consulta todas nuestras sesiones en español en [la página de inicio en españo
 See our Portuguese sessions on [the Portuguese landing page](pt/).
 Veja nossas sessões em português na [página de entrada em português](pt/).
 
-### Chinese / 简体字
+### Chinese / 简体中文
 
-See our Chinese sessions on [the Chinese landing page](zh/).
-请查看我们的中文课程在[中文登录页面](zh/).
+See our Chinese sessions on [the Chinese landing page](zh/).  
+请在 [中文落地页](zh/) 查看我们的中文课程。
 
 ## Office Hours 🕒
 
