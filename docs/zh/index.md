@@ -9,11 +9,11 @@ hide:
 
 🛠️ 构建、创新，#Hacktogether！ 🛠️
 
-2025 是 AI 代理的时代！但什么是代理？又如何创建一个代理呢？无论你是经验丰富的开发者还是初学者，这个为期三周的 **免费虚拟 Hackathon** 将是你深入了解AI代理开发的绝佳机会。
+2025 是 AI 智能体的时代！但什么是智能体？又如何创建一个智能体呢？无论你是经验丰富的开发者还是初学者，这个为期三周的 **免费虚拟 Hackathon** 将是你深入了解 AI 智能体开发的绝佳机会。
 
 🔥 观看 **20+ 场专家主导的直播课程**，涵盖 **Semantic Kernel**、**Autogen**、全新 **Azure AI Agents SDK** 和 **Microsoft 365 Agents SDK** 在内的顶尖框架。
 
-💡 实践操作，释放创意，打造强大的 AI 代理——然后提交你的作品，赢取**丰厚奖品！** 💸💡
+💡 实践操作，释放创意，打造强大的 AI 智能体——然后提交你的作品，赢取**丰厚奖品！** 💸💡
 
 !!! tip "**重要日期**"
 
@@ -42,12 +42,12 @@ hide:
 
 以下类别的每个获胜团队将获得奖励。💸
 
-* 最佳综合代理 - 20,000 美元
-* Python 最佳代理 - 5,000 美元
-* C# 最佳代理 - 5,000 美元
-* Java 最佳代理 - 5,000 美元
-* JavaScript/TypeScript 最佳代理 - 5,000 美元
-* 最佳 Copilot 代理（使用 Microsoft Copilot Studio 或 Microsoft 365 Agents SDK） - 5,000 美元
+* 最佳综合智能体 - 20,000 美元
+* Python 最佳智能体 - 5,000 美元
+* C# 最佳智能体 - 5,000 美元
+* Java 最佳智能体 - 5,000 美元
+* JavaScript/TypeScript 最佳智能体 - 5,000 美元
+* 最佳 Copilot 智能体（使用 Microsoft Copilot Studio 或 Microsoft 365 Agents SDK） - 5,000 美元
 * 最佳 Azure AI Agent Service 使用 - 5,000 美元
 
 每个团队只能在一个类别中获奖。  
@@ -59,7 +59,7 @@ hide:
 
 | 日期/时间 | 主题 | 专题 | 资源 |
 | --------- | ---- | ---- | ---- |
-| 4 月 8 日，时间待定 | 欢迎参加 AI 代理 Hackathon | 所有 | - |
+| 4 月 8 日，时间待定 | 欢迎参加 AI 智能体 Hackathon | 所有 | - |
 | 4 月 15 日，时间待定 | 使用 Azure AI Agent Service 作为您的软件开发流程 | 所有 | - |
 
 ### 其他语言
@@ -83,6 +83,6 @@ hide:
 
 [访问资源！](https://aka.ms/AIAgent_Skilling)
 
-加入 [TheSource EHub](https://aka.ms/thesource/ai_agents)，探索精选资源，包括培训、直播、代码库、技术指南、博客、下载、认证等，每月更新。其 AI 代理部分提供创建 AI 代理的关键资源，其他部分则涵盖 AI、开发工具和编程语言的见解。
+加入 [TheSource EHub](https://aka.ms/thesource/ai_agents)，探索精选资源，包括培训、直播、代码库、技术指南、博客、下载、认证等，每月更新。其 AI 智能体部分提供创建 AI 智能体的关键资源，其他部分则涵盖 AI、开发工具和编程语言的见解。
 
 您也可以在我们的 [讨论论坛](https://github.com/microsoft/AI_Agents_Hackathon/discussions) 中提问，或在 [Discord 频道](https://discord.gg/ZkEG5GYfGU) 与其他参与者交流。

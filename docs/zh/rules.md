@@ -69,7 +69,7 @@ Microsoft Corporation 及其子公司、附属公司、广告代理机构和竞�
 
 解释你为何选择创建该作品；以及
 
-对于这个问题的答案：“代理框架如何帮助你构建这个解决方案？”
+对于这个问题的答案：“智能体框架如何帮助你打造这个解决方案？”
 
 **6. 作品使用**
 
@@ -97,17 +97,17 @@ Microsoft Corporation 及其子公司、附属公司、广告代理机构和竞�
 
 以下类别的获奖团队将获得以下奖品，奖金将以电汇形式平均分配给每位团队成员和团队负责人（金额以美元计）：
 
-最佳综合代理 - $20,000
+最佳综合智能体 - $20,000
 
-最佳 Python 代理 - $5,000
+最佳 Python 智能体 - $5,000
 
-最佳 C# 代理 - $5,000
+最佳 C# 智能体 - $5,000
 
-最佳 Java 代理 - $5,000
+最佳 Java 智能体 - $5,000
 
-最佳 JavaScript/TypeScript 代理 - $5,000
+最佳 JavaScript/TypeScript 智能体 - $5,000
 
-最佳 Copilot 代理（使用 Microsoft Copilot Studio 或 Microsoft 365 Agents SDK） - $5,000
+最佳 Copilot 智能体（使用 Microsoft Copilot Studio 或 Microsoft 365 Agents SDK） - $5,000
 
 最佳 Azure AI Agent 服务使用 - $5,000
 
