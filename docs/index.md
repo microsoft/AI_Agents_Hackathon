@@ -17,8 +17,8 @@ hide:
 
 !!! tip "**Key Dates**"
 
-    * Expert sessions: **April 8th 2025 – April 30th 2025**
-    * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
+    * Expert sessions: **April 8th, 2025 – April 30th, 2025**
+    * Hack submission deadline: **April 30th, 2025, 11:59 PM PST**
 
 
 For even more AI learning opportunities, [join us on April 8th](https://aka.ms/aiskillsfest) in an attempt at a GUINNESS WORLD RECORDS™ title for "most users to take an online multi-level AI lesson" in 24 hours.
@@ -35,7 +35,7 @@ Once your hack is ready, follow the [submission process](submission.md). 📝
 
 ## Prizes and Categories 🏅
 
-Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with the corresponding hackathon category.
 
 Each winning team in the categories below will receive a prize. 💸
 
@@ -93,7 +93,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | 4/21 12:00 PM PT | [Knowledge-augmented agents with LlamaIndex.TS](https://developer.microsoft.com/reactor/events/25440/) | JS | - |
-| 4/22 06:00 AM PT    | [Building a AI Agent with Prompty and Azure AI Foundry](https://developer.microsoft.com/reactor/events/25385) | Python | - |
+| 4/22 06:00 AM PT    | [Building an AI Agent with Prompty and Azure AI Foundry](https://developer.microsoft.com/reactor/events/25385) | Python | - |
 | 4/22 09:00 AM PT    | [Real-time Multi-Agent LLM solutions with SignalR, gRPC, and HTTP based on Semantic Kernel](https://developer.microsoft.com/reactor/events/25331) | Python | - |
 | 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - | - |
 | 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# | - |
@@ -102,7 +102,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python | - |
 | 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# | - |
 | 4/24 09:00 AM PT    | [Extending AI Agents with Azure Functions](https://developer.microsoft.com/reactor/events/25387) | Python, C# | - |
-| 4/24 12:00 PM PT | [Build real time voice agents with Azure Communication Services](https://developer.microsoft.com/reactor/events/25335) | Python | - |
+| 4/24 12:00 PM PT | [Build real-time voice agents with Azure Communication Services](https://developer.microsoft.com/reactor/events/25335) | Python | - |
 | 4/24 03:00 PM PT    | [Bringing robots to life: Real-time interactive experiences with Azure OpenAI GPT-4o](https://developer.microsoft.com/reactor/events/25361) | Python | - |
 
 #### Week 4: April 28th-30th
@@ -125,7 +125,7 @@ Veja nossas sessões em português na [página de entrada em português](pt/).
 
 ### Chinese / 简体中文
 
-See our Chinese sessions on [the Chinese landing page](zh/).  
+See our Chinese sessions on [the Chinese landing page](zh/).
 请在 [中文落地页](zh/) 查看我们的中文课程。
 
 ## Office Hours 🕒
