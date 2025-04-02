@@ -15,19 +15,19 @@ These Official Rules (“Rules”) govern the operation of the Hack Together: AI
 
 **2. DEFINITIONS**
 
-In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Sponsor and “you” and “yourself” refers to a Contest participant, or the parent/legal guardian of any Contest entrant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refers to a group of up to four (4) Contest participants working together to produce a single entry. By entering you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Rules. 
+In these Rules, “Microsoft,” “we,” “our,” and “us” refer to the Sponsor and “you” and “yourself” refer to a Contest participant, or the parent/legal guardian of any Contest entrant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refer to a group of up to four (4) Contest participants working together to produce a single entry. By entering, you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Rules.
 
 **3. ENTRY PERIOD**
 
 The Contest starts at 12:01 a.m. Pacific Time (PT) on April 8, 2025, and ends at 11:59 p.m. PT on April 30, 2025 (“Entry Period”). 
 
-To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian. 
+To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have the consent of a parent/legal guardian. 
 
-The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria: 
+The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria:
 
 **Teams:** Each Team must be comprised of one (1) Team Leader and four (4) Team Members. The Team Leader counts as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team. 
 
-**Team Leaders:** Each Team leader (the “Team Leader”) must be, as of April 8, 2025, eighteen (18) years of age or older. Each  Team Leader may only lead one (1) Team. 
+**Team Leaders:** Each Team leader (the “Team Leader”) must be, as of April 8, 2025, eighteen (18) years of age or older. Each Team Leader may only lead one (1) Team. 
 
 **Team Members:** Each student member of a Team (“Team Member”) must be, as of April 8, 2025, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team. 
 
@@ -47,9 +47,9 @@ We are not responsible for excess, lost, late, or incomplete entries. If dispute
 
 **5. ELIGIBLE ENTRY**
 
-To be eligible, an entry must meet the following content/technical requirements: 
+To be eligible, an entry must meet the following content/technical requirements:
 
-Your entry must be your own original work; and please note the video portion of your entry must be solely your own work, including but not limited to, the actual filming, editing, graphic design, etc. of the video. 
+Your entry must be your own original work, and please note the video portion of your entry must be solely your own work, including but not limited to, the actual filming, editing, graphic design, etc. of the video. 
 
 Your entry cannot have been selected as a winner in any other contest; and 
 
@@ -61,7 +61,7 @@ Your entry may NOT contain, as determined by us in our sole and absolute discret
 
 The video portion of your entry must be no more than five (5) minutes in length; and 
 
-The video portion of your entry must include the following content: 
+The video portion of your entry must include the following content:
 
 A demonstration of your entry; 
 
@@ -73,11 +73,11 @@ An answer to the question: “How did an agentic framework help you build this s
 
 **6. USE OF YOUR ENTRY**
 
-We are not claiming ownership rights to your Submission. However, by submitting an entry, you grant us an irrevocable, royalty-free, worldwide right and license to use, review, assess, test and otherwise analyze your entry and all its content in connection with this Contest and use your entry in any media whatsoever now known or later invented for any non-commercial or commercial purpose, including, but not limited to, the marketing, sale or promotion of Microsoft products or services, without further permission from you. You will not receive any compensation or credit for use of your entry, other than what is described in these Official Rules. By entering you acknowledge that we may have developed or commissioned materials similar or identical to your entry and you waive any claims resulting from any similarities to your entry. Further you understand that we will not restrict work assignments of representatives who have had access to your entry, and you agree that use of information in our representatives’ unaided memories in the development or deployment of our products or services does not create liability for us under this agreement or copyright or trade secret law. Your entry may be posted on a public website. We are not responsible for any unauthorized use of your entry by visitors to this website. We are not obligated to use your entry for any purpose, even if it has been selected as a winning entry. 
+We are not claiming ownership rights to your Submission. However, by submitting an entry, you grant us an irrevocable, royalty-free, worldwide right and license to use, review, assess, test and otherwise analyze your entry and all its content in connection with this Contest and use your entry in any media whatsoever now known or later invented for any non-commercial or commercial purpose, including, but not limited to, the marketing, sale or promotion of Microsoft products or services, without further permission from you. You will not receive any compensation or credit for use of your entry, other than what is described in these Official Rules. By entering, you acknowledge that we may have developed or commissioned materials similar or identical to your entry and you waive any claims resulting from any similarities to your entry. Further, you understand that we will not restrict work assignments of representatives who have had access to your entry, and you agree that use of information in our representatives’ unaided memories in the development or deployment of our products or services does not create liability for us under this agreement or copyright or trade secret law. Your entry may be posted on a public website. We are not responsible for any unauthorized use of your entry by visitors to this website. We are not obligated to use your entry for any purpose, even if it has been selected as a winning entry. 
 
 **7. WINNER SELECTION AND NOTIFICATION**
 
-Pending confirmation of eligibility, potential prize winners will be selected by Microsoft or their Agent or a qualified judging panel from among all eligible entries received based on the following judging criteria: 
+Pending confirmation of eligibility, potential prize winners will be selected by Microsoft or their Agent or a qualified judging panel from among all eligible entries received based on the following judging criteria:
 
 20% - Innovation 
 
@@ -89,7 +89,7 @@ Pending confirmation of eligibility, potential prize winners will be selected by
 
 20% - Alignment with hackathon category (Best in Python, Best in C#, etc.) 
 
-Winners will be selected within fourteen (14) days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding. If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. The Prize will be awarded to each Team Member including the Team Leader. 
+Winners will be selected within fourteen (14) days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding. If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. The Prize will be awarded to each Team Member including the Team Leader.
 
 Winners will be notified via the contact information provided during entry no more than seven (7) days following judging with prize claim instructions, including submission deadlines. If a selected winner or Team Leader cannot be contacted, is ineligible, fails to claim a prize or fails to return any forms, the selected winner will forfeit their prize and an alternate winner will be selected time allowing. If you are a potential winner and you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, we may require your parent/legal guardian to sign all required forms on your behalf. Only three (3) alternate winners will be selected, after which unclaimed prizes will remain unawarded. 
 
@@ -111,13 +111,13 @@ Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) 
 
 Best Azure AI Agent Service Usage - $5,000 
 
-<!-- In addition, each winning team member/team leader will receive one (1) conference pass to Microsoft Build, taking place in Seattle, Washington between May 19-22, 2025 (Approximate Retail Value $XXX). Prize includes event pass only and all other travel related costs including but not limited to airfare, hotel, transportation, food, taxes, and gratuities are the sole responsibility of the winner. If a winner is unable to attend the event, winner is not eligible to receive the cash value of the ticket or a substitute prize and will forfeit this prize but still be eligible to receive the gift card prize.  
+<!-- In addition, each winning team member/team leader will receive one (1) conference pass to Microsoft Build, taking place in Seattle, Washington between May 19-22, 2025 (Approximate Retail Value $XXX). Prize includes event pass only and all other travel related costs including but not limited to airfare, hotel, transportation, food, taxes, and gratuities are the sole responsibility of the winner. If a winner is unable to attend the event, the winner is not eligible to receive the cash value of the ticket or a substitute prize and will forfeit this prize but still be eligible to receive the gift card prize.
 
-We will only award one (1) gift card prize and one Microsoft Build conference pass per person during the Entry Period. No more than the stated number of prizes will be awarded. No substitution, transfer, or assignment of prize permitted, except that Microsoft reserves the right to substitute a prize of equal or greater value in the event the offered prize is unavailable. Except for applicable manufacturer’s limited warranties and any rights you may have under your local laws, prizes are awarded “AS IS” and WITHOUT WARRANTY OF ANY KIND, express or implied (including any implied warranty of merchantability or fitness for a particular purpose); you assume the entire risk of quality and performance, and should the prizes prove defective, you assume the entire cost of all necessary servicing or repair. Microsoft’s limited warranty terms can be found at https://support.microsoft.com/warranty, and specifically the U.S. warranty is here. Prizes will be sent no later than twenty-eight (28) days after winner selection. Prize winners may be required to complete and return prize claim and/or tax forms (“Forms”) within the deadline stated in the winner notification. Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that Microsoft may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Contest without payment or compensation to you, except where prohibited by law.  -->
+We will only award one (1) gift card prize and one Microsoft Build conference pass per person during the Entry Period. No more than the stated number of prizes will be awarded. No substitution, transfer, or assignment of prize is permitted, except that Microsoft reserves the right to substitute a prize of equal or greater value in the event the offered prize is unavailable. Except for applicable manufacturer’s limited warranties and any rights you may have under your local laws, prizes are awarded “AS IS” and WITHOUT WARRANTY OF ANY KIND, express or implied (including any implied warranty of merchantability or fitness for a particular purpose); you assume the entire risk of quality and performance, and should the prizes prove defective, you assume the entire cost of all necessary servicing or repair. Microsoft’s limited warranty terms can be found at https://support.microsoft.com/warranty, and specifically the U.S. warranty is here. Prizes will be sent no later than twenty-eight (28) days after winner selection. Prize winners may be required to complete and return prize claim and/or tax forms (“Forms”) within the deadline stated in the winner notification. Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that Microsoft may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Contest without payment or compensation to you, except where prohibited by law.  -->
 
 <img width="354" alt="fca504d0-f649-47d2-8f8e-3b28a7727b09" src="https://github.com/user-attachments/assets/0a94a365-b565-4cc1-81e9-02b3c2a8792a">
 
-Unfortunately, due to local payment laws, Sponsor is unable to provide any gratuity options to participants residing in the following regions: Uganda, Myanmar, Liberia, Haiti, Pakistan, Russia, Belarus, Burkina Faso, and Commonwealth of Dominica. 
+Unfortunately, due to local payment laws, Sponsor is unable to provide any gratuity options to participants residing in the following regions: Uganda, Myanmar, Liberia, Haiti, Pakistan, Russia, Belarus, Burkina Faso, and the Commonwealth of Dominica. 
 
 **9. ODDS**
 
