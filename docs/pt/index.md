@@ -62,6 +62,7 @@ Todos os participantes que submeterem um projeto receberão um badge digital.
 | --------------------- | ------------------------- | ------------------------- |
 | 4/8 12:00 PM PT | [Bem-vindo ao AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25368) | - |
 | 4/10 12:00 PM PT | [Crie um aplicativo com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25367) | - |
+| 4/17 06:00 AM PT | [Seu primeiro agente de IA em JavaScript com o Azure AI Agent Service](https://developer.microsoft.com/en-us/reactor/events/25439/) | - |
 
 ### Outros Idiomas
 
