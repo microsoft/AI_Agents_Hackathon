@@ -101,6 +101,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python | - |
 | 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python | - |
 | 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# | - |
+| 4/24 06:00 AM PT | [Engineering agents that Think, Act, and Govern themselves](https://developer.microsoft.com/reactor/events/25486/) | C# | - |
 | 4/24 09:00 AM PT    | [Extending AI Agents with Azure Functions](https://developer.microsoft.com/reactor/events/25387) | Python, C# | - |
 | 4/24 12:00 PM PT | [Build real-time voice agents with Azure Communication Services](https://developer.microsoft.com/reactor/events/25335) | Python | - |
 | 4/24 03:00 PM PT    | [Bringing robots to life: Real-time interactive experiences with Azure OpenAI GPT-4o](https://developer.microsoft.com/reactor/events/25361) | Python | - |
