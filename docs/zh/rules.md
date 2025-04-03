@@ -145,7 +145,7 @@ Microsoft Corporation 及其子公司、附属公司、广告代理机构和竞�
 
 **13. 获奖者名单**
 
-在 2025 年 4 月 30 日后 30 天内向 hacktogether@microsoft.com 发送主题为“AI Agents Hackathon winners”的电子邮件，即可收到获奖者名单。
+在 2025 年 4 月 30 日后 30 天内向 hacktogether@gmail.com 发送主题为“AI Agents Hackathon winners”的电子邮件，即可收到获奖者名单。
 
 ## 条款和条件
 

@@ -145,7 +145,7 @@ This Contest will be governed by the laws of the State of Washington, and you co
 
 **13. WINNERS LIST**
 
-Send an email to hacktogether@microsoft.com with the subject line “AI Agents Hackathon winners” within thirty (30) days of April 30, 2025 to receive a list of winners that received a prize. 
+Send an email to hacktogether@gmail.com with the subject line “AI Agents Hackathon winners” within thirty (30) days of April 30, 2025 to receive a list of winners that received a prize. 
 
 ## Terms and Conditions 
 

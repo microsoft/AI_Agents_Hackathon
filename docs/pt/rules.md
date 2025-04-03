@@ -141,7 +141,7 @@ Este Concurso será regido pelas leis do Estado de Washington, e você consente 
 
 **13. LISTA DE VENCEDORES**
 
-Envie um e-mail para hacktogether@microsoft.com com o assunto “AI Agents Hackathon winners” dentro de trinta (30) dias após 30 de abril de 2025 para receber uma lista de vencedores que receberam um prêmio.
+Envie um e-mail para hacktogether@gmail.com com o assunto “AI Agents Hackathon winners” dentro de trinta (30) dias após 30 de abril de 2025 para receber uma lista de vencedores que receberam um prêmio.
 
 ## Termos e Condições
 
