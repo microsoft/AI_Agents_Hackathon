@@ -92,7 +92,7 @@ Confira o seguinte repositório para ver como utilizar frameworks populares de a
 Além disso, todos os palestrantes compartilharão exemplos de código durante suas sessões para demonstrar os temas abordados.  
 Vale lembrar que os serviços Azure OpenAI, Azure AI Models e Azure AI Agents são pagos, então você precisará de uma assinatura do Azure para usá-los. Aqui estão algumas dicas para minimizar os custos ao utilizar o Azure:
 
-* [Teste gratuito do Azure](https://azure.microsoft.com/pricing/purchase-options/azure-account): Para desenvolvedores que estão começando no Azure, é possível se inscrever para um teste gratuito que inclui $200 em créditos nos primeiros 30 dias.  
+* [Teste gratuito do Azure](https://azure.microsoft.com/pricing/purchase-options/azure-account): Para desenvolvedores que estão começando no Azure, é possível se inscrever para uma conta gratuita que inclui $200 em créditos dentro de 30 dias.
 * [Azure para estudantes](https://azure.microsoft.com/free/students)  
 * [Camadas gratuitas](https://azure.microsoft.com/pricing/free-services/): Muitos serviços do Azure oferecem camadas gratuitas que permitem usar uma quantidade limitada de recursos sem custo.
 
