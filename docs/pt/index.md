@@ -81,6 +81,23 @@ Aqui estão os horários de atendimento já agendados:
 | Toda quinta-feira, 12:30 PM PT | [Python + IA (Inglês)](http://aka.ms/aipython/oh)
 | Toda segunda-feira, 03:00 PM PT | [Python + IA (Espanhol)](https://aka.ms/pythonia/oh)
 
+## Exemplos de Código
+
+Uma das melhores maneiras de começar a trabalhar com agentes de IA é usar o [GitHub Models](https://github.com/marketplace/models),  
+pois permite que qualquer pessoa com uma conta no GitHub utilize modelos de linguagem grandes (LLMs) poderosos e gratuitos.
+
+Confira o seguinte repositório para ver como utilizar frameworks populares de agentes de IA em Python com o GitHub Models:  
+[https://github.com/Azure-Samples/python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos)
+
+Além disso, todos os palestrantes compartilharão exemplos de código durante suas sessões para demonstrar os temas abordados.  
+Vale lembrar que os serviços Azure OpenAI, Azure AI Models e Azure AI Agents são pagos, então você precisará de uma assinatura do Azure para usá-los. Aqui estão algumas dicas para minimizar os custos ao utilizar o Azure:
+
+* [Teste gratuito do Azure](https://azure.microsoft.com/pricing/purchase-options/azure-account): Para desenvolvedores que estão começando no Azure, é possível se inscrever para um teste gratuito que inclui $200 em créditos nos primeiros 30 dias.  
+* [Azure para estudantes](https://azure.microsoft.com/free/students)  
+* [Camadas gratuitas](https://azure.microsoft.com/pricing/free-services/): Muitos serviços do Azure oferecem camadas gratuitas que permitem usar uma quantidade limitada de recursos sem custo.
+
+Não forneceremos créditos gratuitos para este hackathon, portanto você precisará usar as opções acima para reduzir os custos.
+
 ## Recursos de Aprendizado 📚
 
 [Acesse os recursos aqui!](https://aka.ms/AIAgent_Skilling)
