@@ -84,7 +84,7 @@ Aqui estão os horários de atendimento já agendados:
 ## Exemplos de Código
 
 Uma das melhores maneiras de começar a trabalhar com agentes de IA é usar o [GitHub Models](https://github.com/marketplace/models),  
-pois permite que qualquer pessoa com uma conta no GitHub utilize modelos de linguagem grandes (LLMs) poderosos e gratuitos.
+pois permite que qualquer pessoa com uma conta no GitHub utilize modelos LLMs gratuitamente.
 
 Confira o seguinte repositório para ver como utilizar frameworks populares de agentes de IA em Python com o GitHub Models:  
 [https://github.com/Azure-Samples/python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos)
