@@ -161,7 +161,6 @@ Note that Azure OpenAI, Azure AI Models, and Azure AI Agents service are all pai
 
 We are not providing free credits for this hackathon, so you will need to use the options above to minimize costs.
 
-
 ## Learning Resources 📚
 
 [Access resources here!](https://aka.ms/AIAgent_Skilling)
