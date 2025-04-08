@@ -96,7 +96,8 @@ Además, todos los ponentes compartirán ejemplos de programación durante sus s
 
 Ten en cuenta que Azure OpenAI, Azure AI Models y Azure AI Agents son servicios de pago, por lo que necesitarás una suscripción a Azure para usarlos. Consejos para minimizar costos al usar Azure:
 
-* [Prueba gratuita de Azure](https://azure.microsoft.com/pricing/purchase-options/azure-account): Los desarrolladores que son nuevos en Azure pueden registrarse para una prueba gratuita que incluye $200 en créditos durante los primeros 30 días.
+* [Prueba gratuita de Azure](https://azure.microsoft.com/pricing/purchase-options/azure-account): Los programadores que son nuevos en Azure pueden registrarse para una prueba gratuita que incluye $200USD en créditos para utilizar en la plataforma durante los primeros 30 días.
+
 * [Azure para estudiantes](https://azure.microsoft.com/free/students)
 * [Niveles gratuitos](https://azure.microsoft.com/pricing/free-services/): Muchos servicios de Azure ofrecen niveles gratuitos que permiten usar una cantidad limitada de recursos sin costo alguno.
 
