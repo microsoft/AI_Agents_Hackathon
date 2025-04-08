@@ -144,15 +144,16 @@ Here are the Office Hours scheduled so far:
 | Thursday, April 10th, 2:05 PM PT | [Java + AI (English)](https://discordapp.com/events/1113626258182504448/1357856284518646019)
 | Monday, April 21st, 3:00 PM PT | [C# + AI (English)](https://discord.gg/7xnX2WRz?event=1357857672279494686)
 
-<!-- ## Code Samples
+## Code Samples
 
-| Repository            | Language/Framework     | Costs |
-| --------------------- | ---------------------- | ------ |
-| [Add code samples here](https://aka.ms/agenthack) | Add language/framework used here | Add costs here |
+One of the best ways to get started with AI agents is to use [GitHub Models](https://github.com/marketplace/models),
+since it allows anyone with a GitHub account to use powerful, free LLMs.
 
-To find more samples, check out the following resources:
+Check out the following repository to see how to use popular Python AI agent frameworks with GitHub Models:
+[https://github.com/Azure-Samples/python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos)
 
-* [Add other links for code samples here](https://aka.ms/agenthack) -->
+In addition, all of the speakers will be sharing code samples during their sessions to demonstrate their topics.
+Note that Azure OpenAI, Azure AI Models, and Azure AI Agents service are all paid services, so you will need an Azure subscription to use them. We are not providing free credits for this hackathon.
 
 ## Learning Resources 📚
 
