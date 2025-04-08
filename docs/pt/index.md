@@ -66,7 +66,7 @@ Todos os participantes que submeterem um projeto receberão um badge digital.
 
 ### Outros Idiomas
 
-Teremos mais de 30 transmissões em inglês, além de transmissões em espanhol e chinês. Veja a [página principal](index.md) para mais detalhes.
+Teremos mais de 30 transmissões em inglês, além de transmissões em espanhol e chinês. Veja a [página principal](../index.md) para mais detalhes.
 
 ## 🕒 Horário de Suporte Técnico
 

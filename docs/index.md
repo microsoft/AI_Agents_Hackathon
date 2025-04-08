@@ -153,7 +153,14 @@ Check out the following repository to see how to use popular Python AI agent fra
 [https://github.com/Azure-Samples/python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos)
 
 In addition, all of the speakers will be sharing code samples during their sessions to demonstrate their topics.
-Note that Azure OpenAI, Azure AI Models, and Azure AI Agents service are all paid services, so you will need an Azure subscription to use them. We are not providing free credits for this hackathon.
+Note that Azure OpenAI, Azure AI Models, and Azure AI Agents service are all paid services, so you will need an Azure subscription to use them. Here are tips for minimizing costs when using Azure:
+
+* [Azure free trial](https://azure.microsoft.com/pricing/purchase-options/azure-account): For developers who are new to Azure, you can sign up for a free trial that includes $200 in credits for the first 30 days.
+* [Azure for students](https://azure.microsoft.com/free/students)
+* [Free tiers](https://azure.microsoft.com/pricing/free-services/): Many Azure services offer free tiers that allow you to use a limited amount of resources without incurring any charges.
+
+We are not providing free credits for this hackathon, so you will need to use the options above to minimize costs.
+
 
 ## Learning Resources 📚
 
