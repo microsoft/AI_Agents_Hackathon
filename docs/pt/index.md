@@ -94,7 +94,7 @@ Vale lembrar que os serviços Azure OpenAI, Azure AI Models e Azure AI Agents s�
 
 * [Teste gratuito do Azure](https://azure.microsoft.com/pricing/purchase-options/azure-account): Para desenvolvedores que estão começando no Azure, é possível se inscrever para uma conta gratuita que inclui $200 em créditos dentro de 30 dias.
 * [Azure para estudantes](https://azure.microsoft.com/free/students)  
-* [Camadas gratuitas](https://azure.microsoft.com/pricing/free-services/): Muitos serviços do Azure oferecem camadas gratuitas que permitem usar uma quantidade limitada de recursos sem custo.
+* [Serviços gratuitos](https://azure.microsoft.com/pricing/free-services/): Muitos serviços do Azure oferecem serviços gratuitos que permitem usar uma quantidade limitada de recursos sem custo.
 
 Não forneceremos créditos gratuitos para este hackathon, portanto você precisará usar as opções acima para reduzir os custos.
 
