@@ -25,11 +25,11 @@ Para participar, você deve ter dezoito (18) anos ou mais. Se você tiver dezoit
 
 O Concurso é uma promoção fechada, aberta apenas a participantes individuais ou Equipes que atendam aos seguintes critérios:
 
-**Equipes:** Cada Equipe deve ser composta por um (1) Líder de Equipe e quatro (4) Membros de Equipe. O Líder de Equipe conta como um dos Membros da Equipe. Apenas uma (1) Inscrição por Equipe pode ser submetida no Concurso; não aceitaremos mais de uma (1) Inscrição por Equipe.
+**Equipes:** Cada equipe deve ser composta por no máximo quatro (4) membros. O Líder da Equipe conta como um dos membros. Apenas uma (1) inscrição por equipe pode ser submetida no concurso; não aceitaremos mais de uma (1) inscrição por equipe.
 
-**Líderes de Equipe:** Cada Líder de Equipe (o “Líder de Equipe”) deve ter, a partir de 8 de abril de 2025, dezoito (18) anos ou mais. Cada Líder de Equipe pode liderar apenas uma (1) Equipe.
+**Membros da Equipe:** Cada membro de uma equipe (“Membro da Equipe”) deve ter, até 8 de abril de 2025, dezoito (18) anos ou mais. Cada Membro da Equipe pode ser membro de apenas uma (1) equipe.
 
-**Membros da Equipe:** Cada membro estudante de uma Equipe (“Membro da Equipe”) deve ter, a partir de 8 de abril de 2025, dezoito (18) anos ou mais. Cada Membro da Equipe pode ser membro de apenas uma (1) Equipe.
+**Líderes de Equipe:** Cada Líder de Equipe (“Líder de Equipe”) deve ter, até 8 de abril de 2025, dezoito (18) anos ou mais. Cada Líder de Equipe pode liderar apenas uma (1) equipe. O Líder de Equipe é responsável pela submissão do projeto da equipe, bem como por qualquer comunicação entre os organizadores e sua equipe.
 
 Você é totalmente responsável por (i) a conduta dos Membros da sua Equipe; e (ii) as consequências de qualquer má conduta dos Membros da sua Equipe. Ao registrar uma Equipe para o Concurso, você declara e garante que obteve o consentimento por escrito de cada Membro da Equipe (conforme definido abaixo) ou, para qualquer Membro da Equipe que não tenha atingido a maioridade no seu local de residência legal, de seus pais ou responsáveis, para participar do Concurso.
 
