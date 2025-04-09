@@ -25,11 +25,11 @@ Para participar, debes tener dieciocho (18) años de edad o más. Si tienes diec
 
 El Concurso es una promoción cerrada abierta solo a participantes individuales o Equipos que cumplan con los siguientes criterios: 
 
-**Equipos:** Cada Equipo debe estar compuesto por un (1) Líder del Equipo y cuatro (4) Miembros del Equipo. El Líder del Equipo cuenta como uno de los Miembros del Equipo. Solo se puede presentar una (1) entrada por Equipo en el Concurso; no aceptaremos más de una (1) entrada por Equipo. 
+**Equipos:** Cada equipo debe estar compuesto por no más de cuatro (4) miembros. El líder del equipo cuenta como uno de los miembros. Solo se podrá presentar una (1) inscripción por equipo en el concurso; no aceptaremos más de una (1) inscripción por equipo.
 
-**Líderes de Equipo:** Cada Líder de Equipo (el "Líder del Equipo") debe tener, a partir del 8 de abril de 2025, dieciocho (18) años de edad o más. Cada Líder de Equipo solo puede liderar un (1) Equipo. 
+**Miembros del equipo:** Cada miembro de un equipo (“Miembro del equipo”) debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada miembro del equipo solo podrá ser miembro de un (1) equipo.
 
-**Miembros del Equipo:** Cada miembro estudiante de un Equipo ("Miembro del Equipo") debe tener, a partir del 8 de abril de 2025, dieciocho (18) años de edad o más. Cada Miembro del Equipo solo puede ser miembro de un (1) Equipo. 
+**Líderes de equipo:** Cada líder de equipo (“Líder de equipo”) debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada líder de equipo solo podrá liderar un (1) equipo. Cada líder de equipo es responsable de la presentación del proyecto del equipo, así como de cualquier comunicación entre los organizadores y su equipo.
 
 Eres totalmente responsable de (i) la conducta de tus Miembros del Equipo; y (ii) las consecuencias de cualquier mala conducta por parte de tus Miembros del Equipo. Al registrar un Equipo para el Concurso, declaras y garantizas que has obtenido el consentimiento por escrito de cada Miembro del Equipo (según se define más adelante) o, en el caso de cualquier Miembro del Equipo que no haya alcanzado la mayoría de edad en su lugar de residencia legal, de su padre o tutor, para participar en el Concurso. 
 
