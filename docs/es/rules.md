@@ -25,7 +25,8 @@ Para participar, debes tener dieciocho (18) años de edad o más. Si tienes diec
 
 El Concurso es una promoción cerrada abierta solo a participantes individuales o Equipos que cumplan con los siguientes criterios: 
 
-**Equipos:** Cada equipo debe estar compuesto por no más de cuatro (4) miembros. El líder del equipo cuenta como uno de los miembros. Solo se podrá presentar una (1) inscripción por equipo en el concurso; no aceptaremos más de una (1) inscripción por equipo.
+**Equipos:** Cada equipo debe estar compuesto por solo cuatro (4) miembros. El líder del equipo cuenta como uno de los miembros. Solo se puede presentar una (1) inscripción por equipo en el concurso; no aceptaremos más de una (1) inscripción por equipo.
+
 
 **Miembros del equipo:** Cada miembro de un equipo (“Miembro del equipo”) debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada miembro del equipo solo podrá ser miembro de un (1) equipo.
 
