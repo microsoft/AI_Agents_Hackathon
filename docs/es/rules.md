@@ -31,7 +31,8 @@ El Concurso es una promoción cerrada abierta solo a participantes individuales 
 **Miembros del equipo:** Cada miembro de un equipo debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada miembro del equipo solo podrá pertenecer a un (1) solo equipo.
 
 
-**Líderes de equipo:** Cada líder de equipo (“Líder de equipo”) debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada líder de equipo solo podrá liderar un (1) equipo. Cada líder de equipo es responsable de la presentación del proyecto del equipo, así como de cualquier comunicación entre los organizadores y su equipo.
+**Líderes de equipo:** Cada líder de equipo debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada líder de equipo solo podrá liderar un (1) solo equipo. Cada líder de equipo es responsable de la presentación del proyecto del equipo, así como de cualquier comunicación entre los organizadores y su equipo.
+
 
 Eres totalmente responsable de (i) la conducta de tus Miembros del Equipo; y (ii) las consecuencias de cualquier mala conducta por parte de tus Miembros del Equipo. Al registrar un Equipo para el Concurso, declaras y garantizas que has obtenido el consentimiento por escrito de cada Miembro del Equipo (según se define más adelante) o, en el caso de cualquier Miembro del Equipo que no haya alcanzado la mayoría de edad en su lugar de residencia legal, de su padre o tutor, para participar en el Concurso. 
 
