@@ -70,7 +70,7 @@ Todos los participantes que envíen un proyecto recibirán una insignia digital.
 
 ### Otros Idiomas
 
-Tendremos más de 30 transmisiones en inglés, además de transmisiones en español y chino. Consulta la [página principal](../index.md) para más detalles.
+Tendremos más de 30 transmisiones en inglés, además de transmisiones en español y chino. Consulta la [página principal](/) para más detalles.
 
 ## Horas de Oficina 🕒
 

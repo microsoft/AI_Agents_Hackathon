@@ -69,7 +69,7 @@ body:
     id: register
     attributes:
       label: Registration Check
-      description: Confirm that your team has filled out the [registration form](https://developer.microsoft.com/reactor/events/25323/), we will not be able to confirm prizes if you don't! 
+      description: Confirm that each team member has individually filled out the [registration form](https://developer.microsoft.com/reactor/events/25323/), we will not be able to confirm prizes if you don't! 
       options:
-        - label: My team has completed the registration form.
+        - label: Each of my team members has filled out the registration form
           required: true

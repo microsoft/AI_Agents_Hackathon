@@ -88,12 +88,27 @@ plugins:
         - locale: es
           name: Español
           build: true
+          nav_translations:
+            Overview: Inicio
+            Rules: Reglas
+            Submission: Enviar
+            Discussions: Discusiones
         - locale: pt
           name: Português
           build: true
+          nav_translations:
+            Overview: Início
+            Rules: Regras
+            Submission: Enviar
+            Discussions: Discussões
         - locale: zh
           name: 中文
           build: true
+          nav_translations:
+            Overview: 概览
+            Rules: 规则
+            Submission: 提交
+            Discussions: 讨论
 
 # Navigation  ...............................................
 nav:
