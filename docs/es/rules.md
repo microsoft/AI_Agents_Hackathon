@@ -28,7 +28,8 @@ El Concurso es una promoción cerrada abierta solo a participantes individuales 
 **Equipos:** Cada equipo debe estar compuesto por solo cuatro (4) miembros. El líder del equipo cuenta como uno de los miembros. Solo se puede presentar una (1) inscripción por equipo en el concurso; no aceptaremos más de una (1) inscripción por equipo.
 
 
-**Miembros del equipo:** Cada miembro de un equipo (“Miembro del equipo”) debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada miembro del equipo solo podrá ser miembro de un (1) equipo.
+**Miembros del equipo:** Cada miembro de un equipo debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada miembro del equipo solo podrá pertenecer a un (1) solo equipo.
+
 
 **Líderes de equipo:** Cada líder de equipo (“Líder de equipo”) debe tener, a partir del 8 de abril de 2025, dieciocho (18) años o más. Cada líder de equipo solo podrá liderar un (1) equipo. Cada líder de equipo es responsable de la presentación del proyecto del equipo, así como de cualquier comunicación entre los organizadores y su equipo.
 
