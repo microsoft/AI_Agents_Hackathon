@@ -57,12 +57,13 @@ Todos os participantes que submeterem um projeto receberão um badge digital.
 ### Português
 
 [Inscreva-se em todas as sessões em português](https://developer.microsoft.com/reactor/series/S-1513)
+Se você está procurando os recursos mostrados em alguma das sessões, [você pode encontrá-los aqui!](https://github.com/microsoft/AI_Agents_Hackathon/discussions/60)
 
-| Dia/Horário           | Tópico                    | Recursos                 |
-| --------------------- | ------------------------- | ------------------------- |
-| 4/8 12:00 PM PT | [Bem-vindo ao AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25368) | - |
-| 4/10 12:00 PM PT | [Crie um aplicativo com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25367) | - |
-| 4/17 06:00 AM PT | [Seu primeiro agente de IA em JavaScript com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25439/) | - |
+| Dia/Horário           | Tópico                    |
+| --------------------- | ------------------------- |
+| 4/8 12:00 PM PT | [Bem-vindo ao AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25368) |
+| 4/10 12:00 PM PT | [Crie um aplicativo com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25367) |
+| 4/17 06:00 AM PT | [Seu primeiro agente de IA em JavaScript com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25439/) |
 
 ### Outros Idiomas
 
