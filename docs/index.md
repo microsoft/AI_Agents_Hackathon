@@ -56,63 +56,65 @@ The series starts with a kick-off for all developers, and then dives into specif
 
 ### English
 
+[Find session resources here!](https://github.com/microsoft/AI_Agents_Hackathon/discussions/58)
+
 #### Week 1: April 8th-11th
 
-| Day/Time              | Topic                    | Track                    | Resources                |
-| --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/8 09:00 AM PT    | [AI Agents Hackathon Kickoff](https://developer.microsoft.com/reactor/events/25324) | All | - |
-| 4/9 09:00 AM PT    | [Build your code-first app with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25325) | Python | - |
-| 4/9 12:00 PM PT | [AI Agents for Java using Azure AI Foundry](https://developer.microsoft.com/reactor/events/25336) | Java | - |
-| 4/9 03:00 PM PT    | [Build your code-first app with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25312) | Python | - |
-| 4/10 09:00 AM PT    | [Build and extend agents for Microsoft 365 Copilot](https://developer.microsoft.com/reactor/events/25326) | Copilots | - |
-| 4/10 12:00 PM PT | [Transforming business processes with multi-agent AI using Semantic Kernel](https://developer.microsoft.com/reactor/events/25313) | Python | - |
-| 4/10 03:00 PM PT    | [Build your code-first app with Azure AI Agent Service (.NET)](https://developer.microsoft.com/reactor/events/25370) | C# | - |
+| Day/Time              | Topic                    | Track                    |
+| --------------------- | ------------------------ | ------------------------ |
+| 4/8 09:00 AM PT    | [AI Agents Hackathon Kickoff](https://developer.microsoft.com/reactor/events/25324) | All |
+| 4/9 09:00 AM PT    | [Build your code-first app with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25325) | Python |
+| 4/9 12:00 PM PT | [AI Agents for Java using Azure AI Foundry](https://developer.microsoft.com/reactor/events/25336) | Java |
+| 4/9 03:00 PM PT    | [Build your code-first app with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25312) | Python |
+| 4/10 09:00 AM PT    | [Build and extend agents for Microsoft 365 Copilot](https://developer.microsoft.com/reactor/events/25326) | Copilots |
+| 4/10 12:00 PM PT | [Transforming business processes with multi-agent AI using Semantic Kernel](https://developer.microsoft.com/reactor/events/25313) | Python |
+| 4/10 03:00 PM PT    | [Build your code-first app with Azure AI Agent Service (.NET)](https://developer.microsoft.com/reactor/events/25370) | C# |
 
 #### Week 2: April 14th-18th
 
-| Day/Time              | Topic                    | Track                    | Resources                |
-| --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/14 08:00 AM PT      | [Building custom engine agents with Azure AI Foundry and Visual Studio Code](https://developer.microsoft.com/reactor/events/25523) | Copilots | - |
-| 4/15 07:00 AM PT    | [Your first AI Agent in JS with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25381) | JS | - |
-| 4/15 09:00 AM PT    | [Building Agentic Applications with AutoGen v0.4](https://developer.microsoft.com/reactor/events/25327) | Python | - |
-| 4/15 12:00 PM PT | [AI Agents + .NET Aspire](https://developer.microsoft.com/reactor/events/25332) | C# | - |
-| 4/15 03:00 PM PT    | [Prototyping AI Agents with GitHub Models](https://developer.microsoft.com/reactor/events/25481/) | Python | - |
-| 4/16 04:00 AM PT | [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25455/) | C# | - |
-| 4/16 06:00 AM PT    | [Building declarative agents with Microsoft Copilot Studio & Teams Toolkit](https://developer.microsoft.com/reactor/events/25393) | Copilots | - |
-| 4/16 07:00 AM PT    | [Prompting is the New Scripting: Meet GenAIScript](https://developer.microsoft.com/reactor/events/25441/) | JS | - |
-| 4/16 09:00 AM PT    | [Building agents with an army of models from the Azure AI model catalog](https://developer.microsoft.com/reactor/events/25328) | Python | - |
-| 4/16 12:00 PM PT | [Multi-Agent API with LangGraph and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25314) | Python | - |
-| 4/16 03:00 PM PT    | [Mastering Agentic RAG](https://developer.microsoft.com/reactor/events/25315) | Python | - |
-| 4/17 06:00 AM PT    | [Build your own agent with OpenAI, .NET, and Copilot Studio](https://developer.microsoft.com/reactor/events/25382) | C# | - |
-| 4/17 09:00 AM PT    | [Building smarter Python AI agents with code interpreters](https://developer.microsoft.com/reactor/events/25329) | Python | - |
-| 4/17 12:00 PM PT | [Building Java AI Agents using LangChain4j and Dynamic Sessions](https://developer.microsoft.com/reactor/events/25337) | Java | - |
-| 4/17 03:00 PM PT    | [Agentic Voice Mode Unplugged](https://developer.microsoft.com/reactor/events/25317) | Python | - |
+| Day/Time              | Topic                    | Track                    |
+| --------------------- | ------------------------ | ------------------------ |
+| 4/14 08:00 AM PT      | [Building custom engine agents with Azure AI Foundry and Visual Studio Code](https://developer.microsoft.com/reactor/events/25523) | Copilots |
+| 4/15 07:00 AM PT    | [Your first AI Agent in JS with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25381) | JS |
+| 4/15 09:00 AM PT    | [Building Agentic Applications with AutoGen v0.4](https://developer.microsoft.com/reactor/events/25327) | Python |
+| 4/15 12:00 PM PT | [AI Agents + .NET Aspire](https://developer.microsoft.com/reactor/events/25332) | C# |
+| 4/15 03:00 PM PT    | [Prototyping AI Agents with GitHub Models](https://developer.microsoft.com/reactor/events/25481/) | Python |
+| 4/16 04:00 AM PT | [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25455/) | C# |
+| 4/16 06:00 AM PT    | [Building declarative agents with Microsoft Copilot Studio & Teams Toolkit](https://developer.microsoft.com/reactor/events/25393) | Copilots |
+| 4/16 07:00 AM PT    | [Prompting is the New Scripting: Meet GenAIScript](https://developer.microsoft.com/reactor/events/25441/) | JS |
+| 4/16 09:00 AM PT    | [Building agents with an army of models from the Azure AI model catalog](https://developer.microsoft.com/reactor/events/25328) | Python |
+| 4/16 12:00 PM PT | [Multi-Agent API with LangGraph and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25314) | Python |
+| 4/16 03:00 PM PT    | [Mastering Agentic RAG](https://developer.microsoft.com/reactor/events/25315) | Python |
+| 4/17 06:00 AM PT    | [Build your own agent with OpenAI, .NET, and Copilot Studio](https://developer.microsoft.com/reactor/events/25382) | C# |
+| 4/17 09:00 AM PT    | [Building smarter Python AI agents with code interpreters](https://developer.microsoft.com/reactor/events/25329) | Python |
+| 4/17 12:00 PM PT | [Building Java AI Agents using LangChain4j and Dynamic Sessions](https://developer.microsoft.com/reactor/events/25337) | Java |
+| 4/17 03:00 PM PT    | [Agentic Voice Mode Unplugged](https://developer.microsoft.com/reactor/events/25317) | Python |
 
 #### Week 3: April 21st-25th
 
-| Day/Time              | Topic                    | Track                    | Resources                |
-| --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/21 12:00 PM PT | [Knowledge-augmented agents with LlamaIndex.TS](https://developer.microsoft.com/reactor/events/25440/) | JS | - |
-| 4/22 06:00 AM PT    | [Building a AI Agent with Prompty and Azure AI Foundry](https://developer.microsoft.com/reactor/events/25385) | Python | - |
-| 4/22 09:00 AM PT    | [Real-time Multi-Agent LLM solutions with SignalR, gRPC, and HTTP based on Semantic Kernel](https://developer.microsoft.com/reactor/events/25331) | Python | - |
-| 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - | - |
-| 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# | - |
-| 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python | - |
-| 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python | - |
-| 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python | - |
-| 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# | - |
-| 4/24 06:00 AM PT | [Engineering agents that Think, Act, and Govern themselves](https://developer.microsoft.com/reactor/events/25486/) | C# | - |
-| 4/24 09:00 AM PT    | [Extending AI Agents with Azure Functions](https://developer.microsoft.com/reactor/events/25387) | Python, C# | - |
-| 4/24 12:00 PM PT | [Build real time voice agents with Azure Communication Services](https://developer.microsoft.com/reactor/events/25335) | Python | - |
+| Day/Time              | Topic                    | Track                    |
+| --------------------- | ------------------------ | ------------------------ |
+| 4/21 12:00 PM PT | [Knowledge-augmented agents with LlamaIndex.TS](https://developer.microsoft.com/reactor/events/25440/) | JS |
+| 4/22 06:00 AM PT    | [Building a AI Agent with Prompty and Azure AI Foundry](https://developer.microsoft.com/reactor/events/25385) | Python |
+| 4/22 09:00 AM PT    | [Real-time Multi-Agent LLM solutions with SignalR, gRPC, and HTTP based on Semantic Kernel](https://developer.microsoft.com/reactor/events/25331) | Python |
+| 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - |
+| 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# |
+| 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python |
+| 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python |
+| 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python |
+| 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# |
+| 4/24 06:00 AM PT | [Engineering agents that Think, Act, and Govern themselves](https://developer.microsoft.com/reactor/events/25486/) | C# |
+| 4/24 09:00 AM PT    | [Extending AI Agents with Azure Functions](https://developer.microsoft.com/reactor/events/25387) | Python, C# |
+| 4/24 12:00 PM PT | [Build real time voice agents with Azure Communication Services](https://developer.microsoft.com/reactor/events/25335) | Python |
 
 #### Week 4: April 28th-30th
 
-| Day/Time              | Topic                    | Track                    | Resources                |
-| --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/29 01:00 PM UTC / 06:00 AM PT    | [Irresponsible AI Agents](https://developer.microsoft.com/reactor/events/25388) | Java | - |
-| 4/29 04:00 PM UTC / 09:00 AM PT    | [Securing AI agents on Azure](https://developer.microsoft.com/reactor/events/25364) | Python | - |
-| 4/29 12:00 PM PT    | [Bringing robots to life: Real-time interactive experiences with Azure OpenAI GPT-4o](https://developer.microsoft.com/reactor/events/25361) | Python | - |
-| 4/29 10:00 PM UTC / 03:00 PM PT    | [Evaluating Agents](https://developer.microsoft.com/reactor/events/25369/) | Python | - |
+| Day/Time              | Topic                    | Track                    |
+| --------------------- | ------------------------ | ------------------------ |
+| 4/29 01:00 PM UTC / 06:00 AM PT    | [Irresponsible AI Agents](https://developer.microsoft.com/reactor/events/25388) | Java |
+| 4/29 04:00 PM UTC / 09:00 AM PT    | [Securing AI agents on Azure](https://developer.microsoft.com/reactor/events/25364) | Python |
+| 4/29 12:00 PM PT    | [Bringing robots to life: Real-time interactive experiences with Azure OpenAI GPT-4o](https://developer.microsoft.com/reactor/events/25361) | Python |
+| 4/29 10:00 PM UTC / 03:00 PM PT    | [Evaluating Agents](https://developer.microsoft.com/reactor/events/25369/) | Python |
 
 ### Spanish / Español
 
