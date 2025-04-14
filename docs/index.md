@@ -74,7 +74,6 @@ The series starts with a kick-off for all developers, and then dives into specif
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | 4/14 08:00 AM PT      | [Building custom engine agents with Azure AI Foundry and Visual Studio Code](https://developer.microsoft.com/reactor/events/25523) | Copilots | - |
 | 4/15 07:00 AM PT    | [Your first AI Agent in JS with Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25381) | JS | - |
-| 4/15 09:00 AM PT    | [Building Agentic Applications with AutoGen v0.4](https://developer.microsoft.com/reactor/events/25327) | Python | - |
 | 4/15 12:00 PM PT | [AI Agents + .NET Aspire](https://developer.microsoft.com/reactor/events/25332) | C# | - |
 | 4/15 03:00 PM PT    | [Prototyping AI Agents with GitHub Models](https://developer.microsoft.com/reactor/events/25481/) | Python | - |
 | 4/16 04:00 AM PT | [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25455/) | C# | - |
