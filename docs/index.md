@@ -141,7 +141,7 @@ Here are the Office Hours scheduled so far:
 
 | Day/Time              | Topic/Hosts                              |
 | --------------------- | ---------------------------------------- |
-| Every Thursday, 12:30 PM PT | [Python + AI (English)](http://aka.ms/aipython/oh)
+| Every Thursday, 01:00 PM PT | [Python + AI (English)](http://aka.ms/aipython/oh)
 | Every Monday, 03:00 PM PT | [Python + AI (Spanish)](https://aka.ms/pythonia/oh)
 | Thursday, April 10th, 2:05 PM PT | [Java + AI (English)](https://discordapp.com/events/1113626258182504448/1357856284518646019)
 | Monday, April 21st, 3:00 PM PT | [C# + AI (English)](https://discord.gg/7xnX2WRz?event=1357857672279494686)

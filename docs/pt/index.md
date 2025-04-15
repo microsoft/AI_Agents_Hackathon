@@ -80,7 +80,7 @@ Aqui estão os horários de atendimento já agendados:
 
 | Dia/Horário           | Tópico/Anfitriões                          |
 | --------------------- | ---------------------------------------- |
-| Toda quinta-feira, 12:30 PM PT | [Python + IA (Inglês)](http://aka.ms/aipython/oh)
+| Toda quinta-feira, 01:00 PM PT | [Python + IA (Inglês)](http://aka.ms/aipython/oh)
 | Toda segunda-feira, 03:00 PM PT | [Python + IA (Espanhol)](https://aka.ms/pythonia/oh)
 
 ## Exemplos de Código

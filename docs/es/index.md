@@ -85,7 +85,7 @@ Al momento, este es el horario:
 | Día/Hora              | Tema/Anfitriones                         |
 | --------------------- | ---------------------------------------- |
 | Todos los lunes, 03:00 PM PT | [Python + AI (Español)](https://aka.ms/pythonia/oh)
-| Todos los jueves, 12:30 PM PT | [Python + AI (Inglés)](http://aka.ms/aipython/oh)
+| Todos los jueves, 01:00 PM PT | [Python + AI (Inglés)](http://aka.ms/aipython/oh)
 
 ## Ejemplos de código
 
