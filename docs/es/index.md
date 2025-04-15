@@ -56,6 +56,7 @@ Todos los participantes que envíen un proyecto recibirán una insignia digital.
 ### Español
 
 [Regístrate para todas las sesiones en español](https://developer.microsoft.com/reactor/series/S-1512/)
+
 ¡Si estás buscando los recursos mostrados en cualquiera de las sesiones, [puedes encontrarlos aquí!](https://github.com/microsoft/AI_Agents_Hackathon/discussions/59)
 
 | Día/Hora              | Tema                    | Pista                    |
