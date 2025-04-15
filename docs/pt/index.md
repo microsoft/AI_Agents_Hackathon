@@ -57,6 +57,7 @@ Todos os participantes que submeterem um projeto receberão um badge digital.
 ### Português
 
 [Inscreva-se em todas as sessões em português](https://developer.microsoft.com/reactor/series/S-1513)
+
 Se você está procurando os recursos mostrados em alguma das sessões, [você pode encontrá-los aqui!](https://github.com/microsoft/AI_Agents_Hackathon/discussions/60)
 
 | Dia/Horário           | Tópico                    |
