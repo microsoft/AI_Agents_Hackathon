@@ -81,8 +81,7 @@ If you are looking for resources shown in any of the sessions, you can [find the
 | 4/15 03:00 PM PT    | [Prototyping AI Agents with GitHub Models](https://developer.microsoft.com/reactor/events/25481/) | Python |
 | 4/16 04:00 AM PT | [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25455/) | C# |
 | 4/16 06:00 AM PT    | [Building declarative agents with Microsoft Copilot Studio & Teams Toolkit](https://developer.microsoft.com/reactor/events/25393) | Copilots |
-| 4/16 07:00 AM PT    | [Prompting is the New Scripting: Meet GenAIScript](https://developer.microsoft.com/reactor/events/25441/) | JS |
-| 4/16 09:00 AM PT    | [Building agents with an army of models from the Azure AI model catalog](https://developer.microsoft.com/reactor/events/25328) | Python |
+| 4/16 06:00 AM PT    | [Prompting is the New Scripting: Meet GenAIScript](https://developer.microsoft.com/reactor/events/25441/) | JS |
 | 4/16 12:00 PM PT | [Multi-Agent API with LangGraph and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/25314) | Python |
 | 4/16 03:00 PM PT    | [Mastering Agentic RAG](https://developer.microsoft.com/reactor/events/25315) | Python |
 | 4/17 06:00 AM PT    | [Build your own agent with OpenAI, .NET, and Copilot Studio](https://developer.microsoft.com/reactor/events/25382) | C# |
