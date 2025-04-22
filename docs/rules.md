@@ -116,19 +116,13 @@ Winners will be notified via the contact information provided during entry no mo
 
 Each winning team in the categories below will receive the following prizes, equally distributed among each team member and team leader, in the form of a wire transfer (all amounts in USD): 
 
-Best Overall Agent - $20,000 
-
-Best Agent in Python - $5,000 
-
-Best Agent in C# - $5,000 
-
-Best Agent in Java - $5,000 
-
-Best Agent in JavaScript/TypeScript - $5,000 
-
-Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) - $5,000 
-
-Best Azure AI Agent Service Usage - $5,000 
+- Best Overall Agent: $20,000  
+- Best Agent in Python: $5,000  
+- Best Agent in C#: $5,000  
+- Best Agent in Java: $5,000  
+- Best Agent in JavaScript/TypeScript: $5,000  
+- Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK): $5,000  
+- Best Azure AI Agent Service Usage: $5,000  
 
 <!-- In addition, each winning team member/team leader will receive one (1) conference pass to Microsoft Build, taking place in Seattle, Washington between May 19-22, 2025 (Approximate Retail Value $XXX). Prize includes event pass only and all other travel related costs including but not limited to airfare, hotel, transportation, food, taxes, and gratuities are the sole responsibility of the winner. If a winner is unable to attend the event, winner is not eligible to receive the cash value of the ticket or a substitute prize and will forfeit this prize but still be eligible to receive the gift card prize.  
 
