@@ -14,6 +14,7 @@ hide:
 - Check out some of these submissions from our past hackathon [RAGHack](https://github.com/microsoft/RAG_Hack) - they have great examples of READMEs!
   - [DocAssistant.Charty](https://github.com/microsoft/RAG_Hack/issues/82)
   - [MyFitnessBuddy - AI powered Fitness Assistant](https://github.com/microsoft/RAG_Hack/issues/145)
+  - [Contoso Travel Agency](https://github.com/microsoft/RAG_Hack/issues/83)
   - [Sakura Guide: Discover Japan with Your AI Travel Guide](https://github.com/microsoft/RAG_Hack/issues/114)
   - [Discord Community Management Agent](https://github.com/microsoft/RAG_Hack/issues/98)
 
