@@ -97,19 +97,13 @@ Microsoft Corporation 及其子公司、附属公司、广告代理机构和竞�
 
 以下类别的获奖团队将获得以下奖品，奖金将以电汇形式平均分配给每位团队成员和团队负责人（金额以美元计）：
 
-最佳综合智能体 - $20,000
-
-最佳 Python 智能体 - $5,000
-
-最佳 C# 智能体 - $5,000
-
-最佳 Java 智能体 - $5,000
-
-最佳 JavaScript/TypeScript 智能体 - $5,000
-
-最佳 Copilot 智能体（使用 Microsoft Copilot Studio 或 Microsoft 365 Agents SDK） - $5,000
-
-最佳 Azure AI Agent 服务使用 - $5,000
+- 最佳综合智能体 - $20,000
+- 最佳 Python 智能体 - $5,000
+- 最佳 C# 智能体 - $5,000
+- 最佳 Java 智能体 - $5,000
+- 最佳 JavaScript/TypeScript 智能体 - $5,000
+- 最佳 Copilot 智能体（使用 Microsoft Copilot Studio 或 Microsoft 365 Agents SDK） - $5,000
+- 最佳 Azure AI Agent 服务使用 - $5,000
 
 <!-- 此外，每位获奖团队成员/团队负责人将获得一（1）张 Microsoft Build 会议通行证，会议于 2025 年 5 月 19 日至 22 日在华盛顿州西雅图举行（估计零售价 1，525 美元）。奖品仅包括活动通行证，所有其他与旅行相关的费用，包括但不限于机票、酒店、交通、餐饮、税费和小费由获奖者自行承担。如果获奖者无法参加活动，则无资格获得门票现金价值或替代奖品，将丧失该奖品，但仍有资格获得礼品卡奖品。
 
