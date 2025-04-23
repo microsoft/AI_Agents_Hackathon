@@ -100,19 +100,13 @@ Los ganadores serán notificados a través de la información de contacto propor
 
 Cada equipo ganador en las categorías a continuación recibirá los siguientes premios, distribuidos equitativamente entre cada miembro del equipo y el líder del equipo, en forma de transferencia bancaria (todos los montos en USD): 
 
-Mejor Agente en General - $20,000 
-
-Mejor Agente en Python - $5,000 
-
-Mejor Agente en C# - $5,000 
-
-Mejor Agente en Java - $5,000 
-
-Mejor Agente en JavaScript/TypeScript - $5,000 
-
-Mejor Agente Copilot (usando Microsoft Copilot Studio o Microsoft 365 Agents SDK) - $5,000 
-
-Mejor Uso del Servicio Azure AI Agent - $5,000 
+- Mejor Agente en General: $20,000
+- Mejor Agente en Python: $5,000
+- Mejor Agente en C#: $5,000
+- Mejor Agente en Java: $5,000
+- Mejor Agente en JavaScript/TypeScript: $5,000
+- Mejor Agente Copilot (usando Microsoft Copilot Studio o Microsoft 365 Agents SDK): $5,000
+- Mejor Uso del Servicio Azure AI Agent: $5,000
 
 
 <img width="354" alt="fca504d0-f649-47d2-8f8e-3b28a7727b09" src="https://github.com/user-attachments/assets/0a94a365-b565-4cc1-81e9-02b3c2a8792a">

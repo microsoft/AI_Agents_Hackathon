@@ -1,6 +1,6 @@
 name: Project Submission
 description: "Share your project with us to get a digital badge and win prizes!"
-title: "Project: <short description>"
+title: "Project: <Title>, <Language & Framework category>"
 body:
   - type: input
     id: name
@@ -13,7 +13,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your agentic application. Who can benefit from your app?
+      description: Provide a description of your agentic application. Treat this as your project README.
     validations:
       required: true
   - type: checkboxes

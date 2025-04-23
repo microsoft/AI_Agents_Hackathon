@@ -79,15 +79,34 @@ We are not claiming ownership rights to your Submission. However, by submitting 
 
 Pending confirmation of eligibility, potential prize winners will be selected by Microsoft or their Agent or a qualified judging panel from among all eligible entries received based on the following judging criteria: 
 
-20% - Innovation 
+20% - Innovation
 
-20% - Impact 
+- Is the project premise interesting?
+- Is the project creative in how the technology was implemented?
+- Is the demo video engaging?
 
-20% - Usability 
+20% - Impact
 
-20% - Solution Quality 
+- Would we use the project ourselves? Could we envision an organization, school, or company using it?
+- Is the value/purpose of the project evident?
 
-20% - Alignment with hackathon category (Best in Python, Best in C#, etc.) 
+20% - Usability
+
+- Does the project address a real-world scenario? How practical is the solution?
+- Does the project include sophisticated features such as Human-in-the-Loop?
+- Does the project incorporate Responsible AI practices?
+
+20% - Solution Quality
+
+- How complete is the project repository, README, and codebase? (i.e. are there code comments, clear instructions for using the solution, test suite, security best practices, etc.)?
+- Is there substantial technical implementation (i.e. more than simply copying sample code)? Is the code robust and sophisticated?
+- Is there a detailed architecture diagram (especially for projects where non-Microsoft technologies are involved)?
+
+20% - Alignment with hackathon category (Best in Python, Best in C#, etc.)
+
+- Is the solution an agent built with either the corresponding programming language (Python, Java, etc.) or Microsoft technology (Copilot Studio, M365 Agents SDK, Azure AI Agent Service, etc.) of its category?
+- How well does the project showcase the programming language or Microsoft technology of its category? 
+- How well does the project implement AI technologies (i.e. is it just a small feature or core to the functionality of the agent)?
 
 Winners will be selected within fourteen (14) days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding. If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. The Prize will be awarded to each Team Member including the Team Leader. 
 
@@ -97,19 +116,13 @@ Winners will be notified via the contact information provided during entry no mo
 
 Each winning team in the categories below will receive the following prizes, equally distributed among each team member and team leader, in the form of a wire transfer (all amounts in USD): 
 
-Best Overall Agent - $20,000 
-
-Best Agent in Python - $5,000 
-
-Best Agent in C# - $5,000 
-
-Best Agent in Java - $5,000 
-
-Best Agent in JavaScript/TypeScript - $5,000 
-
-Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) - $5,000 
-
-Best Azure AI Agent Service Usage - $5,000 
+- Best Overall Agent: $20,000  
+- Best Agent in Python: $5,000  
+- Best Agent in C#: $5,000  
+- Best Agent in Java: $5,000  
+- Best Agent in JavaScript/TypeScript: $5,000  
+- Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK): $5,000  
+- Best Azure AI Agent Service Usage: $5,000  
 
 <!-- In addition, each winning team member/team leader will receive one (1) conference pass to Microsoft Build, taking place in Seattle, Washington between May 19-22, 2025 (Approximate Retail Value $XXX). Prize includes event pass only and all other travel related costs including but not limited to airfare, hotel, transportation, food, taxes, and gratuities are the sole responsibility of the winner. If a winner is unable to attend the event, winner is not eligible to receive the cash value of the ticket or a substitute prize and will forfeit this prize but still be eligible to receive the gift card prize.  
 

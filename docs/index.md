@@ -95,7 +95,7 @@ If you are looking for resources shown in any of the sessions, you can [find the
 | --------------------- | ------------------------ | ------------------------ |
 | 4/21 12:00 PM PT | [Knowledge-augmented agents with LlamaIndex.TS](https://developer.microsoft.com/reactor/events/25440/) | JS |
 | 4/22 06:00 AM PT    | [Building a AI Agent with Prompty and Azure AI Foundry](https://developer.microsoft.com/reactor/events/25385) | Python |
-| 4/22 09:00 AM PT    | [Real-time Multi-Agent LLM solutions with SignalR, gRPC, and HTTP based on Semantic Kernel](https://developer.microsoft.com/reactor/events/25331) | Python |
+| 4/22 09:00 AM PT    | [Real-time Multi-Agent LLM solutions with SignalR, gRPC, and HTTP based on Semantic Kernel](https://developer.microsoft.com/reactor/events/25331) | C# |
 | 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - |
 | 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# |
 | 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python |
