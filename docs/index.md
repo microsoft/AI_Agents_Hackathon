@@ -112,7 +112,7 @@ If you are looking for resources shown in any of the sessions, you can [find the
 | --------------------- | ------------------------ | ------------------------ |
 | 4/29 01:00 PM UTC / 06:00 AM PT    | [Irresponsible AI Agents](https://developer.microsoft.com/reactor/events/25388) | Java |
 | 4/29 04:00 PM UTC / 09:00 AM PT    | [Securing AI agents on Azure](https://developer.microsoft.com/reactor/events/25364) | Python |
-| 4/29 12:00 PM PT    | [Bringing robots to life: Real-time interactive experiences with Azure OpenAI GPT-4o](https://developer.microsoft.com/reactor/events/25361) | Python |
+| 4/29 12:00 PM PT    | [The Art of AI Embodiment: Real-Time Interactive Experiences with Azure OpenAI GPT-4o and 3D Avatars](https://developer.microsoft.com/reactor/events/25361) | Python |
 | 4/29 10:00 PM UTC / 03:00 PM PT    | [Evaluating Agents](https://developer.microsoft.com/reactor/events/25369/) | Python |
 
 ### Spanish / Español
