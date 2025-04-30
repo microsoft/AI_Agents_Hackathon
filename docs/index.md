@@ -101,7 +101,7 @@ If you are looking for resources shown in any of the sessions, you can [find the
 | 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python |
 | 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python |
 | 4/23 12:00 PM PT | [Agentic RAG with reflection](https://developer.microsoft.com/reactor/events/25338) | Python |
-| 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# |
+<!-- | 4/23 03:00 PM PT    | [Multi-source data patterns for modern RAG apps](https://developer.microsoft.com/reactor/events/25390) | C# | -->
 | 4/24 06:00 AM PT | [Engineering agents that Think, Act, and Govern themselves](https://developer.microsoft.com/reactor/events/25486/) | C# |
 | 4/24 09:00 AM PT    | [Extending AI Agents with Azure Functions](https://developer.microsoft.com/reactor/events/25387) | Python, C# |
 | 4/24 12:00 PM PT | [Build real time voice agents with Azure Communication Services](https://developer.microsoft.com/reactor/events/25335) | Python |
