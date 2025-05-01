@@ -1,0 +1,43 @@
+name: Add existing issues to GitHub Project
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  add_issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Query issues and add to project
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PROJECT_TOKEN }}
+          script: |
+            const owner = 'microsoft';
+            const repo = 'AI_Agents_Hackathon';
+            const projectId = ${{ secrets.PROJECT_ID }};
+
+            // Step 1: Get all issues
+            const issues = await github.paginate(
+              github.rest.issues.listForRepo,
+              {
+                owner,
+                repo,
+                state: 'open',
+              }
+            );
+
+            // Step 2: Add each to the project
+            for (const issue of issues) {
+              await github.graphql(`
+                mutation($projectId:ID!, $contentId:ID!) {
+                  addProjectV2ItemById(input: {projectId: $projectId, contentId: $contentId}) {
+                    item {
+                      id
+                    }
+                  }
+                }
+              `, {
+                projectId: projectId,
+                contentId: issue.node_id
+              });
+            }
