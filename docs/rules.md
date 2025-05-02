@@ -80,6 +80,7 @@ We are not claiming ownership rights to your Submission. However, by submitting 
 Pending confirmation of eligibility, potential prize winners will be selected by Microsoft or their Agent or a qualified judging panel from among all eligible entries received based on the following judging criteria: 
 
 20% - Innovation
+
 - Is the project premise interesting and original?
 - Is the implementation creatively done or does it go beyond traditional methods?
 - Is the demo video engaging and representative of the project?
