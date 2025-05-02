@@ -80,33 +80,33 @@ We are not claiming ownership rights to your Submission. However, by submitting 
 Pending confirmation of eligibility, potential prize winners will be selected by Microsoft or their Agent or a qualified judging panel from among all eligible entries received based on the following judging criteria: 
 
 20% - Innovation
-
-- Is the project premise interesting?
-- Is the project creative in how the technology was implemented?
-- Is the demo video engaging?
+- Is the project premise interesting and original?
+- Is the implementation creatively done or does it go beyond traditional methods?
+- Is the demo video engaging and representative of the project?
 
 20% - Impact
 
-- Would we use the project ourselves? Could we envision an organization, school, or company using it?
-- Is the value/purpose of the project evident?
+- Would you or others find this use case valuable?
+- Could the project be utilized by an organization, school, or company?
+- Is the project's value or purpose evident?
 
 20% - Usability
 
-- Does the project address a real-world scenario? How practical is the solution?
-- Does the project include sophisticated features such as Human-in-the-Loop?
-- Does the project incorporate Responsible AI practices?
-
+- Does the project solve or address a real-world problem or scenario?
+- Does the project feature advanced usability aspects, such as Human-in-the-Loop processes?
+- Does the project align with Responsible AI principles?
+  
 20% - Solution Quality
 
-- How complete is the project repository, README, and codebase? (i.e. are there code comments, clear instructions for using the solution, test suite, security best practices, etc.)?
-- Is there substantial technical implementation (i.e. more than simply copying sample code)? Is the code robust and sophisticated?
-- Is there a detailed architecture diagram (especially for projects where non-Microsoft technologies are involved)?
+- Is the repository complete with clear documentation, comments, instructions, and security best practices?
+- Is the implementation substantial, original, and sophisticated (not merely copied)?
+- Is there a detailed architecture diagram, especially where non-Microsoft technologies are integrated?
 
-20% - Alignment with hackathon category (Best in Python, Best in C#, etc.)
+20% - Alignment with Hackathon Category
 
-- Is the solution an agent built with either the corresponding programming language (Python, Java, etc.) or Microsoft technology (Copilot Studio, M365 Agents SDK, Azure AI Agent Service, etc.) of its category?
-- How well does the project showcase the programming language or Microsoft technology of its category? 
-- How well does the project implement AI technologies (i.e. is it just a small feature or core to the functionality of the agent)?
+- Does the project fit its category (e.g., built with Python, C#, Microsoft technologies like Azure AI Agent, Copilot Studio, etc.)?
+- How well does the project demonstrate the features of the corresponding programming language or technology? 
+- Are AI technologies central to the functionality or just a minor addition?
 
 Winners will be selected within fourteen (14) days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding. If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. The Prize will be awarded to each Team Member including the Team Leader. 
 
