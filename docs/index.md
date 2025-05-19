@@ -64,7 +64,7 @@ Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) 
 	
 Best Agent in JavaScript/TypeScript – $5,00: **ModelProof: Sentinel AI Chat**
 	
-Best Azure AI Agent Service Usage – $5,000: **Tarrifed – Tariff Management Solution**
+Best Azure AI Agent Service Usage – $5,000: **Tariffed – Tariff Management Solution**
 
 Best Agent in Python – $5,000: **Konveyor AI Powered Knowledge Transfer Agent** 
 
