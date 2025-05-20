@@ -13,13 +13,13 @@ The response was tremendous with over **18,000 developers registered and 570 pro
 
 The results are in! Below we highlight the standout winners in each category—the creativity and technical prowess on display are truly inspiring.
 
-<img alt="Winners AI Agents Hack 2025" src="media/winners/WINNERS.png">
+![Winners AI Agents Hackathon 2025](./media/winners/WINNERS.png)
 
 ## 🏆 Best Overall Winner – RiskWise: Supply Chain Risk Analysis System
 
 **RiskWise** emerged as the Best Overall winner with its innovative approach to **supply chain risk analysis**.
 
-<img alt="RiskWise" src="media/winners/RISKWISE.png">
+![Riskwise](./media/winners/RISKWISE.png)
 
 Built using **Python** (for AI logic), a **React/Next.js** front-end, **Azure AI Agent Service**, **Semantic Kernel**, and **SQL** for data, RiskWise showcases end-to-end excellence. The project tackles the complex problem of identifying and analyzing risks in global supply chains. By leveraging AI agents, RiskWise can sift through vast amounts of supply chain data (e.g. shipping schedules, news about trade disruptions, etc.) to **flag potential risks** – from port delays to geopolitical events – that might impact production or delivery. It likely uses Semantic Kernel to plan and orchestrate calls to various tools or data sources, and Azure AI Agent Service to integrate advanced language models for understanding queries. The **user interface** built in Next.js allows analysts to query the system in natural language and visualize risk insights. In short, RiskWise helps businesses **anticipate supply disruptions** and make informed decisions in real-time, which is a game-changer for operational resilience.
 
@@ -30,8 +30,7 @@ Built using **Python** (for AI logic), a **React/Next.js** front-end, **Azure AI
 
 **Apollo** is an AI agent that acts as a **deep research assistant**, capable of transforming complex queries into comprehensive research reports. Written in C# on the backend (ASP.NET Core) with a React frontend, Apollo orchestrates multiple specialized sub-agents to collaborate on answering a query.
 
-<img alt="Appllo" src="media/winners/APOLLO.png">
-
+![Apollo](./media/winners/APOLLO.png)
 
 Its architecture is particularly impressive:
 
@@ -49,7 +48,7 @@ Using **Azure AI Agent Service** and Azure OpenAI (GPT-4), Apollo can answer, fo
 
 **HealthIA** is a **personal wellness coach agent** that stood out as the top Java-based project. *What if your fitness app had an intelligent coach that knows **you** inside out?* HealthIA delivers exactly that. It combines **generative AI with IoT wearable data** to provide real-time, personalized health guidance.
 
-<img alt="HealthIA" src="media/winners/HEALTHIA.jpg">
+![HealthIA](./media/winners/HEALTHIA.jpg)
 
 - **Personalized plans:** HealthIA generates custom meal plans, workout routines, and healthy habit reminders tailored to the user's health data and preferences. It connects to smartwatches, fitness bands, and health sensors to continuously adjust recommendations based on heart rate, sleep quality, step count, etc., ensuring advice stays relevant to the user's current state.
 - **Multilingual & culturally aware:** The agent can chat in English or Spanish and adapts recommendations to the user's cultural context (for example, suggesting diet options that match local cuisine).
@@ -66,7 +65,7 @@ By integrating wearables, AI, and cloud, HealthIA delivers a **holistic wellness
 
 **WorkWizee** won the Copilots category by addressing a common corporate challenge: **managing P1/P2 incident calls**. These calls often involve multiple updates across Jira, ServiceNow, and Confluence, alongside notifying managers and teams. The goal? Automating these repetitive tasks with an intelligent agent integrated within Microsoft Teams—allowing developers to focus on fixing bugs instead of juggling updates.
 
-<img alt="WorkWizee" src="media/winners/WORKWIZE.png">
+![WorkWizee](./media/winners/WORKWIZE.png)
 
 WorkWizee enables seamless, natural language interactions to handle workflow tasks. Instead of manually updating Jira tickets or sending notifications, users can simply type commands like:
 
@@ -105,7 +104,8 @@ WorkWizee improves team efficiency by cutting down the manual workload, saving u
 
 **ModelProof: Sentinel AI Chat** took the JS/TS category by demonstrating how to make AI outputs more **trustworthy and transparent**. In an era concerned with AI hallucinations and bias, ModelProof acts as a **sentinel guard** for AI-generated answers.
 
-<img alt="ModelProof" src="media/winners/MODELPROOF.png">
+
+![ModelProof](./media/winners/MODELPROOF.png)
 
 - **Dual-LM consistency check:** ModelProof runs two large language models in parallel for each user query and compares their responses [https://www.youtube.com/watch?v=qPX_TDM4DSE](https://www.youtube.com/watch?v=qPX_TDM4DSE). The idea is that if both models agree on an answer, confidence in correctness is higher – and if they differ, that's a flag for potential issues. For example, it might query both GPT-4 and another model, and then automatically cross-verify the outputs.
 - **Real-time auditing for safety:** Every answer is audited in real-time for **hallucinations, bias, toxicity, and intent alignment**. The agent uses content moderation and evaluation techniques (likely via Azure AI Content Safety or custom prompts) to detect if the response contains made-up facts, overly biased statements, or unsafe content.
@@ -121,8 +121,8 @@ The innovation here is treating AI responses almost like an AI safety officer wo
 
 The **TARIFFED!** project won the Azure AI Agent Service category by applying AI agents to a niche but impactful domain – **trade tariffs**.
 
-<img alt="TARIFFED" src="media/winners/TARIFF.png">
 
+![TARIFFED](./media/winners/TARIFF.png")
 It explores how changes in import/export tariffs affect businesses and consumers, showcasing Azure AI Agent Service's capabilities in a data-intensive scenario.
 
 - **Problem tackled:** Tariff schedules (like the Harmonized Tariff Schedule of the US) are complex and often bewildering, yet they have real impacts on economies and supply chains. TARIFFED! set out to make sense of this by having agents' pore over huge tariff data and answer salient questions in plain language.
@@ -149,7 +149,7 @@ TARIFFED! is an excellent showcase of **Azure AI Agent Service** because it uses
   - *Context awareness:* Using histories and vector databases to provide answers with context and reference sources (to build trust in the info).
 - **Impact:** Konveyor stands out because it addresses the perennial challenge of knowledge loss. By using an AI agent to preserve and disseminate knowledge, it can improve productivity and reduce the learning curve when team composition changes or when moving between projects.
 
-<img alt="KONVEYOR" src="media/winners/KONVEYOR.png">
+![KONVEYOR](./media/winners/KONVEYOR.png")
 
 The team's decision to use Python and Semantic Kernel suggests they wanted flexibility in designing complex logic for the agent. Python's rich AI ecosystem (libraries for NLP, embeddings, etc.) would support building such a system, and Semantic Kernel would help in managing prompts, memories, and skill functions in a modular way.
 
@@ -163,7 +163,7 @@ In addition to the winners above, several other projects earned **Honourable Men
 - **DeepStudy – Virtual Classroom for K12**: An AI-driven virtual classroom for school students. DeepStudy creates an interactive learning environment, likely with AI tutors or study buddies for various subjects. *(Tech: Python, Semantic Kernel, Azure AI Agent Service)*.
 - **Agent Groot – Multi-Modal Retail Agent**: A retail-focused AI agent that is **multi-modal**, meaning it can handle different types of inputs ( text, images, or voice). This agent might help customers in a store or online – for example, by recognizing products in an image or answering questions about inventory and pricing.
 - **Nuroxa – Dementia Risk Analysis Assistant**: An AI health assistant that helps assess the risk of dementia. Nuroxa likely interviews patients or analyzes medical data to identify early warning signs of cognitive decline. It could provide risk scores or suggest preventative measures, serving as a support tool for healthcare providers and families. *(Tech: Python, Azure AI Agent Service)*.
-- **DocAssistant.Researchy**: A **research assistant agent** that helps users sift through documents. It takes a set of documents or PDFs and allow the user to ask questions or get summaries ("ChatGPT for your documents"). This agent, built in C#, uses Azure AI Agent Service to orchestrate reading and summarizing documents, making research easier. *(Tech: C#, Azure AI Agent Service)*.
+- **DocAssistant.Researchy**: DocAssistant.Researchy: is an AI-powered research assistant that automates deep, agent-driven research workflows in internet and best selected web sites/domains based on intent. It rapidly generates structured reports for academic assignments, compliance assessments, financial market forecasting, and news fact-checking. *(Tech: C#, Azure AI Agent Service)*.
 - **Agentic Software Factory**: An ambitious project that acts as a **collaborative multi-agent ecosystem** for software development. It includes multiple sub-systems: one for human-in-the-loop collaboration, one for automated issue research, and autonomous coding agents. Essentially, it's like an entire mini factory of agents (for coding, testing, researching) working together with human guidance. The team used advanced frameworks like **Semantic Kernel**, **Autogen**, **Magentic-One**, and **MCP**, all orchestrated via Azure AI Agent Service in Python. This is more of a meta-framework demonstrating how a complex pipeline of AI agents could increase developer productivity. *(Tech: Python, Semantic Kernel, Autogen, Azure AI Agent Service, etc.)*.
 - **RegulAIte**: This agent deals with **regulatory compliance** ("Regulate"). RegulAIte helps users navigate complicated regulations or ensures that documents/actions meet certain regulations using AI. It analyzes text (like policy documents or code) to flag compliance issues or answer questions about regulations. *(Tech: Python & TypeScript)*.
 - **Sirius**: An AI agent service project built with Azure AI Agent Service and both Python and TypeScript. The name "Sirius" evokes a personal assistant (a nod to *Siri*). This is a general-purpose personal AI assistant that integrates various tools – possibly controlling smart home devices, managing your calendar/email, or answering general knowledge questions with an agent twist. *(Tech: Azure AI Agent Service, Python, JS/TS)*.
