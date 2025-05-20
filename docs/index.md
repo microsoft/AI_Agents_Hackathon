@@ -50,6 +50,28 @@ Each winning team in the categories below will receive a prize. 💸
 Each team can only win in one category.
 All participants who submit a project will receive a digital badge.
 
+## Agent Hack 2025 Winners 
+
+<img alt="Winners" src="media/winners/WINNERS.png">
+
+Best Overall Agent – $20,000: **RiskWise: Supply Chain Risk Analysis System**
+
+Best Agent in C# – $5,000: **Apollo  Deep Research Meta Agent**	
+
+Best Agent in Java – $5,000: **HealthIA Personalized Wellness Agent** 		
+
+Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) – $5,000: **WorkWizee**
+	
+Best Agent in JavaScript/TypeScript – $5,00: **ModelProof: Sentinel AI Chat**
+	
+Best Azure AI Agent Service Usage – $5,000: **Tariffed – Tariff Management Solution**
+
+Best Agent in Python – $5,000: **Konveyor AI Powered Knowledge Transfer Agent** 
+
+
+
+Read me about the [winners and honorable mentions here](winners.md)
+
 ## Stream Schedule 📅
 
 The series starts with a kick-off for all developers, and then dives into specific tracks for [Python](https://developer.microsoft.com/reactor/series/S-1503), [Java](https://developer.microsoft.com/reactor/series/S-1504), [C#](https://developer.microsoft.com/reactor/series/S-1506), and [JavaScript](https://developer.microsoft.com/reactor/series/s-1514/) developers. The [Copilots track](https://developer.microsoft.com/reactor/series/S-1505) will focus on building intelligent copilots with Microsoft 365 and Copilot Studio.
