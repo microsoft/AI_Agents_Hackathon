@@ -58,7 +58,7 @@ Best Overall Agent – $20,000: **RiskWise: Supply Chain Risk Analysis System**
 
 Best Agent in C# – $5,000: **Apollo  Deep Research Meta Agent**	
 
-Best Agent in Java – $5,000: **HealthIA Personalized Wellness Agent** 		
+Best Agent in Java – $5,000: **Bit2Brain** 		
 
 Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) – $5,000: **WorkWizee**
 	
