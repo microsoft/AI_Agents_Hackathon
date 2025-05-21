@@ -44,22 +44,27 @@ Using **Azure AI Agent Service** and Azure OpenAI (GPT-4), Apollo can answer, fo
 **Technologies:** C# (.NET 7/ASP​.NET Core), Semantic Kernel, Azure AI Agents Service (with GPT-4), React (frontend), PostgreSQL (vector DB)  
 [Learn more: Apollo – Deep Research Meta Agent (#681)](https://github.com/microsoft/AI_Agents_Hackathon/issues/681)
 
-## 🥇 Best Java Agent – HealthIA: Personalized Wellness Agent
+# 🥇 Best Java Agent – Bit2Brain: Personalized Wellness Agent
 
-**HealthIA** is a **personal wellness coach agent** that stood out as the top Java-based project. *What if your fitness app had an intelligent coach that knows **you** inside out?* HealthIA delivers exactly that. It combines **generative AI with IoT wearable data** to provide real-time, personalized health guidance.
+Bits2Brain is an AI-powered system designed to capture and connect fragmented information, turning everyday learning moments into an evolving **Knowledge Star Map**. Whether it's a tip from a video, a breakthrough in tech news, or an insightful article, the platform enables users to store, structure, and visualize their knowledge in an interactive way.
 
-![HealthIA](./media/winners/HEALTHIA.jpg)
+![Bits2Brain](./media/winners/BITS2BRAIN.png)
 
-- **Personalized plans:** HealthIA generates custom meal plans, workout routines, and healthy habit reminders tailored to the user's health data and preferences. It connects to smartwatches, fitness bands, and health sensors to continuously adjust recommendations based on heart rate, sleep quality, step count, etc., ensuring advice stays relevant to the user's current state.
-- **Multilingual & culturally aware:** The agent can chat in English or Spanish and adapts recommendations to the user's cultural context (for example, suggesting diet options that match local cuisine).
-- **Addresses real problems:** HealthIA targets the epidemic of chronic conditions (like obesity, diabetes, hypertension) by keeping users engaged in consistent healthy habits. It also tackles the low adherence problem of fitness apps – using AI to keep the experience highly personalized and motivating so users don't drop off after a few weeks.
-- **Technical innovation:** HealthIA's backend is built in **Java**, using the **LangGraph** framework to orchestrate a multi-agent flow (for planning, visual analysis, and Q&A reasoning). It leverages **Azure services** like Azure OpenAI GPT-4 for conversational coaching, Azure Computer Vision for analyzing meal photos (e.g., detecting what's on your plate from a snapshot), and Azure Cosmos DB for storing user data and embeddings. A custom "Supervisor" agent architecture routes user requests – text queries or images – to specialized agents (e.g., a nutrition agent or workout agent) for processing.
-- **Gamification:** To boost engagement, HealthIA includes light gamification such as streaks and badges, celebrating users' progress and encouraging consistency.
+## Core Features
+1. **Knowledge Star Map Generation** – Users can upload snippets of knowledge (links, videos, screenshots), with AI automatically identifying connections between related nodes.  
+2. **Node Expansion & Cognitive Completion** – AI suggests relevant topics and additional knowledge nodes based on context, allowing users to explore and grow their understanding.  
+3. **Knowledge Fusion & Summarization** – Related nodes can be merged into a refined summary, compressing information while maintaining key connections and resources.  
+4. **Multimodal Input Support** – Supports various formats, including text, images, and videos, with AI-powered analysis tools (OCR, video indexing) to extract meaningful data.  
+5. **Conversational AI with Agent System** – Users interact with an AI Agent to ask questions, receive video recommendations, and navigate their personalized knowledge graph.
 
-By integrating wearables, AI, and cloud, HealthIA delivers a **holistic wellness companion** that feels both proactive and personalized. It's an excellent example of using Java for an AI agent – taking advantage of Java's robust ecosystem (Spring Boot for APIs, etc.) and combining it with cutting-edge AI and cloud components.
+## Who is it for?
+Students, researchers, content creators, and professionals looking to organize scattered knowledge, track inspiration, and build mental models for learning.
 
-**Technologies:** Java (Spring Boot), LangGraph (for agent orchestration), Azure OpenAI (GPT-4), Azure Cognitive Services (Vision), Azure Cosmos DB, **IoT wearable integration**.  
-[Learn more: HealthIA – Wellness Agent (#702)](https://github.com/microsoft/AI_Agents_Hackathon/issues/702)
+Ultimately, Bits2Brain aims to combat information overload by turning passive learning into structured, dynamic, and interactive knowledge growth powered by AI.
+
+**Technologies** Langchain4j, Azure Video Indexer, Azure Computer Vision, Neo4j, Java, JavaScript.
+
+[Learn more: Bits2Brain (#638)](https://github.com/microsoft/AI_Agents_Hackathon/issues/638)
 
 ## 🥇 Best Copilot Agent – WorkWizee
 
