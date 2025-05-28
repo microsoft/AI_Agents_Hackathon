@@ -1,0 +1,36 @@
+name: Add comment to all issues
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  add_comments:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add comment to all issues
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PROJECT_TOKEN }}
+          script: |
+            const owner = 'microsoft';
+            const repo = 'AI_Agents_Hackathon';
+
+            // Step 1: Get all issues
+            const issues = await github.paginate(
+              github.rest.issues.listForRepo,
+              {
+                owner,
+                repo,
+                state: 'open',
+              }
+            );
+
+            // Step 2: Add comment to each issue
+            for (const issue of issues) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: issue.number,
+                body: 'Thank you for participating in Microsoft\'s AI Agents Hackathon 2025! Please have each team member fill out this form to collect your digital badges: https://aka.ms/agentshack/badges'
+              });
+            }
