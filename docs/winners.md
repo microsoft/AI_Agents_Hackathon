@@ -44,23 +44,19 @@ Using **Azure AI Agent Service** and Azure OpenAI (GPT-4), Apollo can answer, fo
 **Technologies:** C# (.NET 7/ASP​.NET Core), Semantic Kernel, Azure AI Agents Service (with GPT-4), React (frontend), PostgreSQL (vector DB)  
 [Learn more: Apollo – Deep Research Meta Agent (#681)](https://github.com/microsoft/AI_Agents_Hackathon/issues/681)
 
-# 🥇 Best Java Agent – Bit2Brain: Personalized Wellness Agent
+## 🥇 Best Java Agent – Bit2Brain: Personalized Wellness Agent
 
 Bits2Brain is an AI-powered system designed to capture and connect fragmented information, turning everyday learning moments into an evolving **Knowledge Star Map**. Whether it's a tip from a video, a breakthrough in tech news, or an insightful article, the platform enables users to store, structure, and visualize their knowledge in an interactive way.
 
 ![Bits2Brain](./media/winners/BITS2BRAIN.png)
 
-## Core Features
+The key features of Bits2Brain include:
+
 1. **Knowledge Star Map Generation** – Users can upload snippets of knowledge (links, videos, screenshots), with AI automatically identifying connections between related nodes.  
 2. **Node Expansion & Cognitive Completion** – AI suggests relevant topics and additional knowledge nodes based on context, allowing users to explore and grow their understanding.  
 3. **Knowledge Fusion & Summarization** – Related nodes can be merged into a refined summary, compressing information while maintaining key connections and resources.  
 4. **Multimodal Input Support** – Supports various formats, including text, images, and videos, with AI-powered analysis tools (OCR, video indexing) to extract meaningful data.  
 5. **Conversational AI with Agent System** – Users interact with an AI Agent to ask questions, receive video recommendations, and navigate their personalized knowledge graph.
-
-## Who is it for?
-Students, researchers, content creators, and professionals looking to organize scattered knowledge, track inspiration, and build mental models for learning.
-
-Ultimately, Bits2Brain aims to combat information overload by turning passive learning into structured, dynamic, and interactive knowledge growth powered by AI.
 
 **Technologies** Langchain4j, Azure Video Indexer, Azure Computer Vision, Neo4j, Java, JavaScript.
 
@@ -78,7 +74,7 @@ WorkWizee enables seamless, natural language interactions to handle workflow tas
 
 The agent processes the request and executes the necessary API calls, eliminating tedious steps.
 
-### Key Features
+The key features of WorkWizee include:
 
 - **Microsoft Teams**
   - Create groups with active users
@@ -93,7 +89,7 @@ The agent processes the request and executes the necessary API calls, eliminatin
   - Retrieve prioritized open PRs
   - Comment on PRs and notify users via Teams
 
-### Technology Stack
+The technical stack is robust and leverages several Microsoft technologies:
 
 - **Copilot Studio** – Bot development & automation
 - **Python** – Backend API logic
@@ -103,6 +99,7 @@ The agent processes the request and executes the necessary API calls, eliminatin
 WorkWizee improves team efficiency by cutting down the manual workload, saving up to 40% of time spent on incident management. It transforms reactive operations into proactive automation—getting teams back to coding faster.
 
 **Technologies:** Microsoft 365 Copilot Studio, Python, Azure Functions, Jira API, BitBucket API  
+
 [Learn more: WorkWizee – Issue #587](https://github.com/microsoft/AI_Agents_Hackathon/issues/587)
 
 ## 🥇 Best JavaScript/TypeScript Agent – ModelProof: Sentinel AI Chat
@@ -127,7 +124,7 @@ The innovation here is treating AI responses almost like an AI safety officer wo
 The **TARIFFED!** project won the Azure AI Agent Service category by applying AI agents to a niche but impactful domain – **trade tariffs**.
 
 
-![TARIFFED](./media/winners/TARIFF.png")
+![TARIFFED](./media/winners/TARIFF.png)
 It explores how changes in import/export tariffs affect businesses and consumers, showcasing Azure AI Agent Service's capabilities in a data-intensive scenario.
 
 - **Problem tackled:** Tariff schedules (like the Harmonized Tariff Schedule of the US) are complex and often bewildering, yet they have real impacts on economies and supply chains. TARIFFED! set out to make sense of this by having agents' pore over huge tariff data and answer salient questions in plain language.
@@ -154,7 +151,7 @@ TARIFFED! is an excellent showcase of **Azure AI Agent Service** because it uses
   - *Context awareness:* Using histories and vector databases to provide answers with context and reference sources (to build trust in the info).
 - **Impact:** Konveyor stands out because it addresses the perennial challenge of knowledge loss. By using an AI agent to preserve and disseminate knowledge, it can improve productivity and reduce the learning curve when team composition changes or when moving between projects.
 
-![KONVEYOR](./media/winners/KONVEYOR.png")
+![KONVEYOR](./media/winners/KONVEYOR.png)
 
 The team's decision to use Python and Semantic Kernel suggests they wanted flexibility in designing complex logic for the agent. Python's rich AI ecosystem (libraries for NLP, embeddings, etc.) would support building such a system, and Semantic Kernel would help in managing prompts, memories, and skill functions in a modular way.
 
