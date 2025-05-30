@@ -25,12 +25,36 @@ jobs:
               }
             );
 
-            // Step 2: Add comment to each issue
+            // Step 2: Process each issue
             for (const issue of issues) {
+              // Get all comments for this issue
+              const comments = await github.paginate(
+                github.rest.issues.listComments,
+                {
+                  owner,
+                  repo,
+                  issue_number: issue.number
+                }
+              );
+              
+              // Check if any comment contains the badge link
+              const badgeLink = 'https://aka.ms/agentshack/badges';
+              const hasCommentWithBadgeLink = comments.some(comment => 
+                comment.body && comment.body.includes(badgeLink)
+              );
+              
+              // Skip this issue if it already has a comment with the badge link
+              if (hasCommentWithBadgeLink) {
+                console.log(`Issue #${issue.number} already has a comment with the badge link. Skipping.`);
+                continue;
+              }
+              
+              // Add comment if no existing comment contains the badge link
               await github.rest.issues.createComment({
                 owner,
                 repo,
                 issue_number: issue.number,
                 body: 'Thank you for participating in Microsoft\'s AI Agents Hackathon 2025! Please have each team member fill out this form to collect your digital badges: https://aka.ms/agentshack/badges'
               });
+              console.log(`Added comment to issue #${issue.number}`);
             }
