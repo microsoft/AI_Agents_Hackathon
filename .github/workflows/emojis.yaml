@@ -1,0 +1,174 @@
+name: Export emoji reaction counts to CSV
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  export_emoji_reactions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Count emoji reactions and export to CSV
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PROJECT_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const owner = 'microsoft';
+            const repo = 'AI_Agents_Hackathon';
+
+            // Step 1: Get all issues
+            const issues = await github.paginate(
+              github.rest.issues.listForRepo,
+              {
+                owner,
+                repo,
+                state: 'all', // You can change to 'open' or 'closed' if needed
+              }
+            );
+
+            console.log(`Found ${issues.length} issues to analyze`);
+            
+            // Initialize data arrays for CSV
+            const csvData = [];
+            const totalReactionCounts = {
+              '+1': 0,
+              '-1': 0,
+              'laugh': 0,
+              'hooray': 0,
+              'confused': 0,
+              'heart': 0,
+              'rocket': 0,
+              'eyes': 0
+            };
+
+            // CSV headers
+            csvData.push([
+              'Issue Number',
+              'Issue Title',
+              'Issue State',
+              'Issue URL',
+              'Created Date',
+              'Total Reactions',
+              'Thumbs Up (👍)',
+              'Thumbs Down (👎)',
+              'Laugh (😄)',
+              'Hooray (🎉)',
+              'Confused (😕)',
+              'Heart (❤️)',
+              'Rocket (🚀)',
+              'Eyes (👀)'
+            ]);
+
+            // Step 2: Process each issue
+            for (const issue of issues) {
+              console.log(`Processing issue #${issue.number}: ${issue.title}`);
+              
+              // Get reactions for this issue
+              const reactions = await github.rest.reactions.listForIssue({
+                owner,
+                repo,
+                issue_number: issue.number
+              });
+
+              // Count reactions for this issue
+              const issueReactionCounts = {
+                '+1': 0,
+                '-1': 0,
+                'laugh': 0,
+                'hooray': 0,
+                'confused': 0,
+                'heart': 0,
+                'rocket': 0,
+                'eyes': 0
+              };
+
+              // Count each reaction type
+              reactions.data.forEach(reaction => {
+                if (issueReactionCounts.hasOwnProperty(reaction.content)) {
+                  issueReactionCounts[reaction.content]++;
+                  totalReactionCounts[reaction.content]++;
+                }
+              });
+
+              // Calculate total reactions for this issue
+              const totalReactions = Object.values(issueReactionCounts).reduce((sum, count) => sum + count, 0);
+
+              // Add row to CSV data
+              csvData.push([
+                issue.number,
+                `"${issue.title.replace(/"/g, '""')}"`, // Escape quotes in title
+                issue.state,
+                issue.html_url,
+                issue.created_at.split('T')[0], // Just the date part
+                totalReactions,
+                issueReactionCounts['+1'],
+                issueReactionCounts['-1'],
+                issueReactionCounts['laugh'],
+                issueReactionCounts['hooray'],
+                issueReactionCounts['confused'],
+                issueReactionCounts['heart'],
+                issueReactionCounts['rocket'],
+                issueReactionCounts['eyes']
+              ]);
+            }
+
+            // Add summary row
+            const totalAllReactions = Object.values(totalReactionCounts).reduce((sum, count) => sum + count, 0);
+            csvData.push([
+              'TOTAL',
+              '"Summary across all issues"',
+              'N/A',
+              'N/A',
+              'N/A',
+              totalAllReactions,
+              totalReactionCounts['+1'],
+              totalReactionCounts['-1'],
+              totalReactionCounts['laugh'],
+              totalReactionCounts['hooray'],
+              totalReactionCounts['confused'],
+              totalReactionCounts['heart'],
+              totalReactionCounts['rocket'],
+              totalReactionCounts['eyes']
+            ]);
+
+            // Convert to CSV format
+            const csvContent = csvData.map(row => row.join(',')).join('\n');
+
+            // Write CSV file
+            const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+            const filename = `emoji-reactions-${timestamp}.csv`;
+            
+            fs.writeFileSync(filename, csvContent);
+            console.log(`CSV file created: ${filename}`);
+            console.log(`Total issues processed: ${issues.length}`);
+            console.log(`Total reactions found: ${totalAllReactions}`);
+
+            // Also create a summary CSV with just totals and percentages
+            const summaryData = [
+              ['Emoji Type', 'Symbol', 'Count', 'Percentage'],
+              ['Thumbs Up', '👍', totalReactionCounts['+1'], `${((totalReactionCounts['+1']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Thumbs Down', '👎', totalReactionCounts['-1'], `${((totalReactionCounts['-1']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Laugh', '😄', totalReactionCounts['laugh'], `${((totalReactionCounts['laugh']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Hooray', '🎉', totalReactionCounts['hooray'], `${((totalReactionCounts['hooray']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Confused', '😕', totalReactionCounts['confused'], `${((totalReactionCounts['confused']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Heart', '❤️', totalReactionCounts['heart'], `${((totalReactionCounts['heart']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Rocket', '🚀', totalReactionCounts['rocket'], `${((totalReactionCounts['rocket']/totalAllReactions)*100).toFixed(1)}%`],
+              ['Eyes', '👀', totalReactionCounts['eyes'], `${((totalReactionCounts['eyes']/totalAllReactions)*100).toFixed(1)}%`]
+            ];
+
+            const summaryContent = summaryData.map(row => row.join(',')).join('\n');
+            const summaryFilename = `emoji-summary-${timestamp}.csv`;
+            fs.writeFileSync(summaryFilename, summaryContent);
+            console.log(`Summary CSV file created: ${summaryFilename}`);
+
+      - name: Upload CSV files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: emoji-reaction-reports
+          path: |
+            emoji-reactions-*.csv
+            emoji-summary-*.csv
+          retention-days: 30
