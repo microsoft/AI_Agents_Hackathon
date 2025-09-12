@@ -191,6 +191,16 @@ Join [TheSource EHub](https://aka.ms/thesource/ai_agents) to explore top picks i
 
 You can also post questions in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions), or chat with attendees in the [Discord channel](https://discord.gg/ZkEG5GYfGU).
 
-<!--## Judging
+## Judges
 
-More details coming soon!-->
+Thank you to our group of internal Microsoft judges as well as our esteemed community judges:
+
+* Atty Eleti
+* Osasenaga Usoh
+* Thomas Martinsen
+* Nand Vinchhi
+* Ashish Bhardwaj
+* Caio Bastone
+* Venkat Kalyan
+
+The judges reviewed hundreds of submissions (as there were 570 submissions total) and used their expertise in AI engineering and software development to determine the [winners](winners.md). Thank you so much to our judges for their hard work.
